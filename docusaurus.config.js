@@ -113,6 +113,14 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      announcementBar: {
+        id: 'wip',
+        content:
+          '🍭 Halcyon wiki is work in progress. You can help us at <a href="https://github.com/halcyonproject/wiki/">here.',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
+      },
     }),
 };
 
