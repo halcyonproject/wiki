@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'hlcyn wiki.',
-  tagline: 'Simple yet unique Android distribution',
+  tagline: 'Halcyon Wiki',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -52,7 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'hlcyn wiki.',
+        title: 'wiki.',
         logo: {
           alt: 'Halcyon Logo',
           src: 'img/logo.png',
