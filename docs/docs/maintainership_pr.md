@@ -1,5 +1,5 @@
 ---
-slug: /maintainership-pr
+slug: /docs/maintainership-pr
 sidebar_position: 5
 ---
 # Maintainership application Pull-request template

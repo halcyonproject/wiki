@@ -1,5 +1,5 @@
 ---
-slug: /maintainers-req
+slug: /docs/maintainers-req
 sidebar_position: 4
 ---
 # Halcyon Maintainers Requirements

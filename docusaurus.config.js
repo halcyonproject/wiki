@@ -12,7 +12,7 @@ const config = {
   projectName: 'wiki',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
@@ -58,11 +58,11 @@ const config = {
             items: [
               {
                 label: 'Apply Maintainership',
-                to: '/apply',
+                to: '/docs/apply',
               },
               {
                 label: 'Code of Conduct',
-                to: '/maintainers-coc'
+                to: '/docs/maintainers-coc'
               }
             ],
           },

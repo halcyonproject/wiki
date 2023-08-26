@@ -1,6 +1,6 @@
 ---
-slug: /maintainers-coc
-sidebar_position: 7
+slug: /docs/maintainers-coc
+sidebar_position: 6
 ---
 # Halcyon Maintainers Code Of Conduct
 

@@ -10,8 +10,8 @@ pagination_prev: null
 Halcyon is a simple yet powerful AOSP Based Custom ROM. Halcyon designed to be Unique, minimalist, and simple.
 
 ## Content
-- [Device Requirements](device-req)
-- [Device Source Code Guidelines](device-guidelines)
-- [Maintainer requirements](maintainers-req)
-- [Maintainer Code of conduct](maintainers-coc)
-- [Applying for official maintainership](apply)
+- [Device Requirements](docs/device-req)
+- [Device Source Code Guidelines](docs/device-guidelines)
+- [Maintainer requirements](docs/maintainers-req)
+- [Maintainer Code of conduct](docs/maintainers-coc)
+- [Applying for official maintainership](docs/apply)

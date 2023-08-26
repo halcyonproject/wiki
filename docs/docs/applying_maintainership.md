@@ -1,6 +1,6 @@
 ---
-slug: /apply
-sidebar_position: 6
+slug: /docs/apply
+sidebar_position: 1
 ---
 # Applying for Halcyon Official Maintainership
 
