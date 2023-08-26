@@ -71,38 +71,38 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Lorem',
-                to: '/docs/intro',
+                label: 'Apply Maintainership',
+                to: '/apply',
+              },
+              {
+                label: 'Code of Conduct',
+                to: '/maintainers-coc'
+              }
+            ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'Telegram (Channel)',
+                href: 'https://t.me/hlcynprjct',
+              },
+              {
+                label: 'Telegram (Chat)',
+                href: 'https://t.me/hlcynprjctchat',
               },
             ],
           },
           {
-            title: 'Lorem',
+            title: 'More',
             items: [
               {
-                label: 'Lorem',
-                href: 'Lorem',
+                label: 'GitHub',
+                href: 'https://github.com/halcyonproject'
               },
               {
-                label: 'Lorem',
-                href: 'Lorem',
-              },
-              {
-                label: 'Lorem',
-                href: 'Lorem',
-              },
-            ],
-          },
-          {
-            title: 'Lorem',
-            items: [
-              {
-                label: 'Lorem',
-                to: '/Lorem',
-              },
-              {
-                label: 'Lorem',
-                href: 'Lorem',
+                label: 'Twitter',
+                href: 'https://twitter.com/hlcynprjct',
               },
             ],
           },
