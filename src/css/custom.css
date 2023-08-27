@@ -1,7 +1,7 @@
 /* Override the default Infima variables here. */
 :root {
   /* Light mode colors */
-  --ifm-color-primary: #907aa9;
+  --ifm-color-primary: #6e469c;
   --ifm-color-primary-dark: #87689d;
   --ifm-color-primary-darker: #7c5d95;
   --ifm-color-primary-darkest: #6d4d84;
