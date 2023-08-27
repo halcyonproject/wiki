@@ -1,7 +1,7 @@
 /* Override the default Infima variables here. */
 :root {
   /* Light mode colors */
-  --ifm-color-primary: #6e469c;
+  --ifm-color-primary: #907aa9;
   --ifm-color-primary-dark: #87689d;
   --ifm-color-primary-darker: #7c5d95;
   --ifm-color-primary-darkest: #6d4d84;
@@ -27,7 +27,4 @@
 
   /* Customize other variables if needed */
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-  .footer--dark {
-    --ifm-footer-background-color: #1C1E21;
-  }
 }
