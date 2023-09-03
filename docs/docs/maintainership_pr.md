@@ -6,12 +6,12 @@ sidebar_position: 5
 
 To apply for Official maintainership, your Pull-request description have to looks like this:
 ```
-Maintainer Name: YOUR FULL NAME
-Telegram Username: @YourTGUsername
-Device: Your Device Name (codename)
-Device tree link: Your Device Tree Link
-Common Tree Link: Your common tree link if availavle
-Kernel Source Link: Kernel source link, Not needed if you are using prebuilt kernel.
-Vendor tree link: Youd vendor blobs tree link
-Common vendor tree link: Your common vendor tree link if availavle
+Maintainer Name: Nicolas
+Telegram Username: @nicolas1525
+Device: Xiaomi 11 Lite NE 5G (Lisa)
+Device tree link: https://github.com/Amit152505/halcyon_device_xiaomi_lisa
+Common Tree Link: NA
+Kernel Source Link: https://github.com/Amit152505/kernel_xiaomi_lisa.git
+Vendor tree link: https://github.com/Amit152505/halcyon_vendor_xiaomi_lisa.git
+Common vendor tree link: NA
 ```
