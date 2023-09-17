@@ -4,11 +4,11 @@ pagination_next: null
 pagination_prev: null
 ---
 
-# XIAOMI 11 LITE NE 5G (lisa)
+# Xiaomi 11 Lite 5G NE (lisa)
 :::info
 ## Device Information
 
-- **Device:** XIAOMI 11 LITE NE 5G
+- **Device:** Xiaomi 11 Lite 5G NE
 - **Release Date:** September 15, 2021
 - **Chipset:** 	Qualcomm SM7325 Snapdragon 778G 5G
 - **RAM:** 6 GB / 8 GB
