@@ -5,7 +5,7 @@ pagination_prev: null
 ---
 
 # Poco M3 Pro/Redmi Note 10T/10 5G/11 SE (camellia)
-
+:::info
 ## Device Information
 
 - **Device:** Poco M3 Pro/Redmi Note 10T/10 5G/11 SE
@@ -19,6 +19,7 @@ pagination_prev: null
 - **Front Camera:** 8 MP
 - **Halcyon Version:** Tithonia
 - **Maintainer:** [ramshell68](https://github.com/ramshell68)
+:::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
 
