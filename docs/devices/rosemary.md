@@ -5,6 +5,7 @@ pagination_prev: null
 ---
 
 # Redmi Note 10S/11SE India (rosemary/secret/maltose)
+
 :::info
 ## Device Information
 
@@ -21,10 +22,11 @@ pagination_prev: null
 - **Maintainer:** [Beru Stella](https://github.com/Windowz414) & [Rahul](https://github.com/User132New)
 :::
 
-**Builds Will be available soon...**
+<a href="#" class="button button--primary">Coming Soon</a>
 
 ## Installation Guide
-:::Caution
+
+:::caution
 Clean flash required, So make sure to backup your data before proceeding.
 Usage of MIUI 12.5.19.0.RKLINXM is required.
 :::
