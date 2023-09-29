@@ -1,6 +1,7 @@
 ---
 slug: /docs/maintainership-pr
-sidebar_position: 5
+sidebar_position: 6
+pagination_next: null
 ---
 # Maintainership application Pull-request template
 

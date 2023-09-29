@@ -1,6 +1,6 @@
 ---
 slug: /docs/device-req
-sidebar_position: 3
+sidebar_position: 2
 ---
 
 # Halcyon Official device Requirements

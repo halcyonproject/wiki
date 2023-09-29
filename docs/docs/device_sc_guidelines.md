@@ -1,6 +1,6 @@
 ---
 slug: /docs/device-guidelines
-sidebar_position: 2
+sidebar_position: 3
 ---
 # Halcyon Device Source Code Guidelines
 
