@@ -4,7 +4,7 @@ pagination_next: null
 pagination_prev: null
 ---
 
-# Redmi Note 10S/11SE India (rosemary/secret/maltose)
+# Redmi Note 10S/11SE India (rosemary)
 
 :::info
 ## Device Information

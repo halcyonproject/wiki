@@ -4,7 +4,7 @@ pagination_next: null
 pagination_prev: null
 ---
 
-# Poco M3 Pro/Redmi Note 10T/10 5G/11 SE (camellia)
+# POCO M3 Pro/Redmi Note 10T/10 5G/11 SE (camellia)
 :::info
 ## Device Information
 
