@@ -22,7 +22,7 @@ pagination_prev: null
 - **Maintainer:** [Beru Stella](https://github.com/Windowz414) & [Rahul](https://github.com/User132New)
 :::
 
-<a href="#" class="button button--primary">Coming Soon</a>
+<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 
