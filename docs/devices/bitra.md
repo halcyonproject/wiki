@@ -43,7 +43,7 @@ Make sure to backup your data before proceeding.
 5. Select Advanced > ADB sideload.
 6. Now you can start sideloading by this command:
 ```
-adb sideload halcyon_redwood-xxxxx.zip
+adb sideload halcyon_bitra-xxxxx.zip
 ```
 
 ## Troubleshooting
