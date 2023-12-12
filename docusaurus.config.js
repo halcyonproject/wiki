@@ -51,6 +51,7 @@ module.exports = {
     ({
       colorMode: {
         defaultMode: 'dark',
+        disableSwitch: true
       },
       navbar: {
         title: 'Halcyon Wiki',
