@@ -1,11 +1,19 @@
-/**
- * Any CSS included here will be global. The classic template
- * bundles Infima by default. Infima is a CSS framework designed to
- * work well for content-centric websites.
- */
+@font-face {
+  font-family: 'PlusJakartaSans';
+  font-weight: Regular;
+  src: url('/static/fonts/PlusJakartaSans/PlusJakartaSans-Regular.ttf')
+       format('truetype');
+}
 
-/* You can override the default Infima variables here. */
+@font-face {
+  font-family: 'PlusJakartaSans';
+  font-weight: Bold;
+  src: url('/static/fonts/PlusJakartaSans/PlusJakartaSans-Bold.ttf')
+       format('truetype');
+}
+
 :root {
+  --ifm-font-family-base: 'PlusJakartaSans';
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
