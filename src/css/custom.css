@@ -40,6 +40,6 @@
 }
 
 html[data-theme='dark'] {
-  --ifm-background-color: #000;
-  --ifm-background-surface-color: #000;
+  --ifm-background-color: #121212;
+  --ifm-background-surface-color: #121212;
 }
