@@ -2,6 +2,7 @@
 slug: /devices/rosemary
 pagination_next: null
 pagination_prev: null
+title: "rosemary"
 ---
 
 # Redmi Note 10S/11SE India (rosemary)

@@ -2,6 +2,7 @@
 slug: /devices/citrus
 pagination_next: null
 pagination_prev: null
+title: "citrus"
 ---
 
 # POCO M3 (citrus)

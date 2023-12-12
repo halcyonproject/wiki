@@ -1,22 +1,22 @@
 ---
-slug: /devices/lime
+slug: /devices/begonia
 pagination_next: null
 pagination_prev: null
+title: "begonia"
 ---
 
-# Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)
+# Redmi Note 8 Pro (begonia)
 :::info
 ## Device Information
 
-- **Device:** Redmi 9T/9T NFC/8 Power/Note 9 4G
-- **Release Date:** January 08, 2021
-- **Chipset:** 	Qualcomm SM6115 Snapdragon 662
-- **RAM:** 4 GB / 6 GB
+- **Device:** Redmi Note 8 Pro
+- **Release Date:** August 29, 2019
+- **Chipset:** MediaTek Helio G90T
+- **RAM:** 6 GB / 8 GB
 - **Storage:** 64 GB / 128 GB
-- **Battery:** 6000 mAh
+- **Battery:** 4500 mAh
 - **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
-- **Rear Camera:** Quad 48 MP (main) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
-- **Front Camera:** 8 MP
+- **Camera:** Quad 64 MP (main) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Halcyon Version:** Tithonia
 - **Maintainer:** [herobuxx](https://github.com/herobuxx)
 :::
@@ -43,7 +43,7 @@ Make sure to backup your data before proceeding.
 5. Select Apply Update > Apply from ADB.
 6. Now you can start sideloading by this command:
 ```
-adb sideload halcyon_lime-xxxxx.zip
+adb sideload halcyon_begonia-xxxxx.zip
 ```
 
 ## Troubleshooting
