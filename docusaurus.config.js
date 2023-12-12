@@ -1,7 +1,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
-const config = {
+module.exports = {
   title: 'Halcyon Wiki',
   tagline: 'Welcome to the Halcyon Wiki!',
   favicon: 'img/favicon.ico',
@@ -17,6 +17,7 @@ const config = {
     locales: ['en'],
   },
 
+  
   presets: [
     [
       'classic',
@@ -29,6 +30,18 @@ const config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+      }),
+    ],
+  ],
+  
+  themes: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        indexPages: true,
+        highlightSearchTermsOnTargetPage: true,
       }),
     ],
   ],
@@ -100,5 +113,3 @@ const config = {
       },
     }),
 };
-
-export default config;
