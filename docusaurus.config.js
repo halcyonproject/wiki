@@ -54,10 +54,10 @@ module.exports = {
         disableSwitch: true
       },
       navbar: {
-        title: "Halcyon Wiki",
+        title: 'Halcyon Wiki',
         logo: {
-          alt: "Halcyon Logo",
-          src: "img/logo.png",
+          alt: 'Halcyon Logo',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -95,11 +95,10 @@ module.exports = {
             ],
           },
           {
-            label: 'Code of Conduct',
+            label: "Code of Conduct",
             position: "left",
-            to: '/docs/maintainers-coc'
-          }
-          
+            to: "/docs/maintainers-coc",
+          },
         ],
       },
       footer: {
