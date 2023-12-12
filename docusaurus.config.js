@@ -54,55 +54,55 @@ module.exports = {
         disableSwitch: true
       },
       navbar: {
-        title: 'Halcyon Wiki',
+        title: "Halcyon Wiki",
         logo: {
-          alt: 'Halcyon Logo',
-          src: 'img/logo.png',
+          alt: "Halcyon Logo",
+          src: "img/logo.png",
         },
-
+        items: [
+          {
+            href: "https://github.com/halcyonproject",
+            position: "right",
+            className: "header-github-link",
+          },
+          {
+            href: "https://twitter.com/hlcynprjct",
+            position: "right",
+            className: "header-x-link",
+          },
+          {
+            type: "search",
+            position: "right",
+          },
+          {
+            label: "Apply",
+            position: "left",
+            to: "/docs/apply",
+          },
+          {
+            label: "Community",
+            to: "/docs",
+            position: "left",
+            items: [
+              {
+                label: "Telegram (Channel)",
+                to: "https://t.me/hlcynprjct",
+              },
+              {
+                label: "Telegram (Chat)",
+                to: "https://t.me/hlcynprjctchat",
+              },
+            ],
+          },
+          {
+            label: 'Code of Conduct',
+            position: "left",
+            to: '/docs/maintainers-coc'
+          }
+          
+        ],
       },
       footer: {
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Apply Maintainership',
-                to: '/docs/apply',
-              },
-              {
-                label: 'Code of Conduct',
-                to: '/docs/maintainers-coc'
-              }
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Telegram (Channel)',
-                href: 'https://t.me/hlcynprjct',
-              },
-              {
-                label: 'Telegram (Chat)',
-                href: 'https://t.me/hlcynprjctchat',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/halcyonproject'
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/hlcynprjct',
-              },
-            ],
-          },
-        ],
         copyright: `© ${new Date().getFullYear()} Halcyon Project.<br><span style="color:var(--ifm-footer-link-color);display:inline-block;padding-top:1em">Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0.</a></span>`,
       },
       prism: {
