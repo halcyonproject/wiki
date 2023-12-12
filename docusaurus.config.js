@@ -81,7 +81,6 @@ module.exports = {
           },
           {
             label: "Community",
-            to: "/docs",
             position: "left",
             items: [
               {
