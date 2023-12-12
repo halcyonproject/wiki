@@ -59,13 +59,7 @@ module.exports = {
           alt: 'Halcyon Logo',
           src: 'img/logo.png',
         },
-        items: [
-          {
-            href: 'https://hlcyn.me',
-            label: 'Website',
-            position: 'right',
-          },
-        ],
+
       },
       footer: {
         links: [
