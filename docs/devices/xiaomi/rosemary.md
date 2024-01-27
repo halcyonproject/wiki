@@ -20,7 +20,7 @@ title: "rosemary"
 - **Rear Camera:** 64MP(main) + 8MP(Ultra-Wide) + 2MP(Macro) + 2MP(Depth)
 - **Front Camera:** 13 MP
 - **Halcyon Version:** Tithonia
-- **Maintainer:** [Rahul](https://github.com/User132New)
+- **Maintainer:** [Beru Stella](https://github.com/Windowz414) & [Rahul](https://github.com/User132New)
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
