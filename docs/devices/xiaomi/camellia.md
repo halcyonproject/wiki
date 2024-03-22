@@ -2,10 +2,10 @@
 slug: /devices/camellia
 pagination_next: null
 pagination_prev: null
-title: "camellia"
+title: "camellia*"
 ---
 
-# POCO M3 Pro/Redmi Note 10T/10 5G/11 SE (camellia)
+# POCO M3 Pro/Redmi Note 10T/10 5G/11 SE (camellia) - Discontinued
 :::info
 ## Device Information
 
@@ -19,7 +19,7 @@ title: "camellia"
 - **Rear Camera:** Triple 48 MP (wide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 8 MP
 - **Halcyon Version:** Tithonia
-- **Maintainer:** [ramshell68](https://github.com/ramshell68)
+- **Maintainer:** None
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
