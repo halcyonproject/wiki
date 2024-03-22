@@ -54,7 +54,7 @@ module.exports = {
         disableSwitch: true
       },
       navbar: {
-        title: 'Halcyon Wiki',
+        title: 'Wiki',
         logo: {
           alt: 'Halcyon Logo',
           src: 'img/logo.png',
