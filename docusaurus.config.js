@@ -5,7 +5,7 @@ module.exports = {
   title: 'Halcyon Wiki',
   tagline: 'Welcome to the Halcyon Wiki!',
   favicon: 'img/favicon.ico',
-  url: 'https://wiki.hlcyn.me',
+  url: 'https://wiki.hlcyn.co',
   baseUrl: '/',
   organizationName: 'halcyonproject',
   projectName: 'wiki',
