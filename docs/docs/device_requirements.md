@@ -3,7 +3,7 @@ slug: /docs/device-req
 sidebar_position: 1
 ---
 
-# Halcyon Official device Requirements
+# Official device Requirements
 
 You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
 

@@ -2,7 +2,7 @@
 slug: /docs/maintainers-req
 sidebar_position: 3
 ---
-# Halcyon Maintainers Requirements
+# Maintainers Requirements
 
 You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
 

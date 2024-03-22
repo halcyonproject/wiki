@@ -2,7 +2,7 @@
 slug: /docs/device-guidelines
 sidebar_position: 2
 ---
-# Halcyon Device Source Code Guidelines
+# Device Source Code Guidelines
 
 You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
 

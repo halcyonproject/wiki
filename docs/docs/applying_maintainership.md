@@ -3,7 +3,7 @@ slug: /docs/apply
 sidebar_position: 5
 pagination_prev: null
 ---
-# Applying for Halcyon Official Maintainership
+# Applying for Official Maintainership
 
 Congratulations, if you already booted Halcyon for Your device!
 

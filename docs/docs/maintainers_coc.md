@@ -2,7 +2,7 @@
 slug: /docs/maintainers-coc
 sidebar_position: 4
 ---
-# Halcyon Maintainers Code Of Conduct
+# Maintainers Code Of Conduct
 
 You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
 
