@@ -101,7 +101,7 @@ module.exports = {
         ],
       },
       footer: {
-        copyright: `© ${new Date().getFullYear()} Halcyon Project.<br><span style="color:var(--ifm-footer-link-color);display:inline-block;padding-top:1em">Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0.</a></span>`,
+        copyright: `© ${new Date().getFullYear()} Halcyon Project.`,
       },
       prism: {
         theme: prismThemes.github,
