@@ -2,10 +2,10 @@
 slug: /devices/redwood
 pagination_next: null
 pagination_prev: null
-title: "redwood"
+title: "redwood*"
 ---
 
-# POCO X5 Pro 5G / Redmi Note 12 Pro Speed Edition (redwood)
+# POCO X5 Pro 5G / Redmi Note 12 Pro Speed Edition (redwood) - Discontinued
 :::info
 ## Device Information
 
@@ -19,7 +19,7 @@ title: "redwood"
 - **Rear Camera:** Triple 108 MP (main) + 8 MP (ultrawide) + 2 MP (telephoto macro)
 - **Front Camera:** 16 MP
 - **Halcyon Version:** Tithonia
-- **Maintainer:** [Kartik](https://github.com/kartik-commits) & [Priyanshu](https://github.com/thepriyanshujangid)
+- **Maintainer:** None
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
