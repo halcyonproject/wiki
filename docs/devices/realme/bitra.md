@@ -2,10 +2,10 @@
 slug: /devices/bitra
 pagination_next: null
 pagination_prev: null
-title: "bitra"
+title: "bitra*"
 ---
 
-# Realme GT Neo2 5G (bitra)
+# Realme GT Neo2 5G (bitra) - Discontinued
 :::info
 ## Device Information
 
@@ -19,7 +19,7 @@ title: "bitra"
 - **Rear Camera:** 64MP (wide) / 8MP (ultrawide) / 2MP (macro)
 - **Front Camera:** 16MP (wide)
 - **Halcyon Version:** Tithonia
-- **Maintainer:** [EisregenHaha](https://github.com/EisregenHaha)
+- **Maintainer:** None
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
