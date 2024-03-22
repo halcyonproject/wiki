@@ -2,10 +2,10 @@
 slug: /devices/haydn
 pagination_next: null
 pagination_prev: null
-title: "haydn"
+title: "haydn*"
 ---
 
-# Xiaomi Mi 11i/11X Pro/Redmi K40 Pro+ (haydn)
+# Xiaomi Mi 11i/11X Pro/Redmi K40 Pro+ (haydn) - Discontinued
 :::info
 ## Device Information
 
@@ -19,7 +19,7 @@ title: "haydn"
 - **Rear Camera:** Triple 108 MP (main) + 8 MP (ultrawide) + 5 MP (telephoto macro)
 - **Front Camera:** 20 MP
 - **Halcyon Version:** Tithonia
-- **Maintainer:** [DigiGoon](https://github.com/DigiGoon)
+- **Maintainer:** None
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
