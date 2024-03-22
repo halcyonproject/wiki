@@ -2,10 +2,10 @@
 slug: /devices/lisa
 pagination_next: null
 pagination_prev: null
-title: "lisa"
+title: "lisa*"
 ---
 
-# Xiaomi 11 Lite 5G NE (lisa)
+# Xiaomi 11 Lite 5G NE (lisa) - Discontinued
 :::info
 ## Device Information
 
