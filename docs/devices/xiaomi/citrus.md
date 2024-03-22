@@ -18,7 +18,7 @@ title: "citrus"
 - **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
 - **Rear Camera:** Quad 48 MP (main) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 8 MP
-- **Halcyon Version:** Tithonia
+- **Halcyon Version:** Ursinia
 - **Maintainer:** [herobuxx](https://github.com/herobuxx)
 :::
 
