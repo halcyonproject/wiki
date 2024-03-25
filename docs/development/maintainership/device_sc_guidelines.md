@@ -1,5 +1,5 @@
 ---
-slug: /docs/device-guidelines
+slug: /development/maintainership/device-guidelines
 sidebar_position: 2
 ---
 # Device Source Code Guidelines

@@ -1,5 +1,5 @@
 ---
-slug: /docs/apply
+slug: /development/maintainership/apply
 sidebar_position: 5
 pagination_prev: null
 ---

@@ -1,5 +1,5 @@
 ---
-slug: /docs/maintainers-coc
+slug: /development/maintainership/maintainers-coc
 sidebar_position: 4
 ---
 # Maintainers Code Of Conduct

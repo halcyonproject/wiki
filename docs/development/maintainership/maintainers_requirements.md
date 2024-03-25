@@ -1,5 +1,5 @@
 ---
-slug: /docs/maintainers-req
+slug: /development/maintainership/maintainers-req
 sidebar_position: 3
 ---
 # Maintainers Requirements

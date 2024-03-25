@@ -1,5 +1,5 @@
 ---
-slug: /docs/device-req
+slug: /development/maintainership/device-req
 sidebar_position: 1
 ---
 
