@@ -77,7 +77,7 @@ module.exports = {
           {
             label: "Apply",
             position: "left",
-            to: "/docs/apply",
+            to: "/development/maintainership/device-req",
           },
           {
             label: "Community",
@@ -96,7 +96,7 @@ module.exports = {
           {
             label: "Code of Conduct",
             position: "left",
-            to: "/docs/maintainers-coc",
+            to: "/development/maintainership/maintainers-coc",
           },
         ],
       },
