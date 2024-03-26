@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'PlusJakartaSans';
   font-weight: Regular;
-  src: url('/static/fonts/PlusJakartaSans/PlusJakartaSans-Regular.ttf')
+  src: url('/static/fonts/PlusJakartaSans/PlusJakartaSans-Medium.ttf')
        format('truetype');
 }
 
