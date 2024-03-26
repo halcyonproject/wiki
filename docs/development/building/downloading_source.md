@@ -5,20 +5,35 @@ pagination_prev: null
 ---
 # Downloading Source
 
-## Installing Repo
+## Setting Up the Repo Tool
+
 Ensure you have the Repo tool installed. If not, you can install it using the following command:
 
-```
-mkdir ~/bin
-curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
-chmod a+x ~/bin/repo
-```
+if you don't have it already:
+
+Create a `.bin` directory
+   ```
+   mkdir ~/bin
+   ```
+
+Download the Repo script
+   ```
+   curl https://storage.googleapis.com/git-repo-downloads/repo > ~/bin/repo
+   ```
+
+Set Permissions
+   ```
+   chmod a+x ~/bin/repo
+   ```
 
 ## Creating a Directory
 Create a new directory where you want to store the Halcyon Project source code:
 
 ```
 mkdir halcyon
+```
+Change directory to halcyon
+```
 cd halcyon
 ```
 
