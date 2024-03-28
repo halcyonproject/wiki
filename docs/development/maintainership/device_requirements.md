@@ -1,6 +1,7 @@
 ---
 slug: /development/maintainership/device-req
 sidebar_position: 1
+pagination_prev: null
 ---
 
 # Official device Requirements
