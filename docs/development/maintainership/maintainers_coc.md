@@ -4,22 +4,12 @@ sidebar_position: 2
 ---
 # Maintainers Code Of Conduct
 
-You can check reference of used keyword [here](https://datatracker.ietf.org/doc/html/rfc2119).
-
-## The Maintainers:
-* **MUST NOT** involved in any terms of fights and insulting activity that may lead giving bad images of Halcyon Team to the Android Community.  
-* **MUST NOT** hide used trees atleast for Core developers, and Project Manager.  
-* **MUST NOT** inlcude Package Remover.  
-* **MUST NOT** include any modification on the ROM Source.  
-* **MUST NOT** include any 3rd party apps. Such as Gallery, Media Player, etc.  
-* **MUST NOT** include any mods.  
-* **MUST NOT** include any extra features.  
-* **MUST NOT** leak any private source that used in Official builds.  
-* **MUST NOT** override stock fingerprint as we already came with PixelPropUtils.  
-* **MUST NOT** Ignore neverallows and release permissive build on a stable release.  
-* **MUST** include proper proprietary-files on the device tree.  
-* **MUST** attach the soucre of blobs inside proprietary-files on the device tree to avoid confusion.  
-* **MUST** provide easy to understand device side changelog in every updates.  
-
-## Exceptions
-- No exceptions yet
+* **Be nice!** - No fighting or insults in the community.
+* **Open code for devs** - Core devs and project managers need to see the code you used.
+* **No package removal tools** - We keep the package list as is.
+* **Don't change the ROM code** - Stick to what's there.
+* **No extra apps** - We focus on the core Android experience.
+* **No mods or extras** - Keep it simple!
+* **Security** - Follow Android's security rules for stable releases.
+* **List all device files clearly** - Make sure everything needed is there.
+* **Explain what's changed** - Easy-to-understand changelogs for updates.
