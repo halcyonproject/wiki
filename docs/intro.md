@@ -15,4 +15,4 @@ Halcyon is a simple yet powerful AOSP Based Custom ROM. Halcyon designed to be U
 
 ## For Developer
 - [Building Halcyon](development/building/downloading_source)
-- [Official Maintainership](development/maintainership/device-req)
+- [Official Maintainership](development/maintainership/apply)
