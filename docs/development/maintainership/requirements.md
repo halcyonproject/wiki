@@ -14,6 +14,7 @@ To become Halcyon Official Device Maintainers, you have to complete following re
 | Unofficial Build Maintenance | Applicants must maintain an unofficial build atleast 2 builds in 2 weeks before applying with postive feedbacks from the users. |
 | Authorship | All code contributions must include proper attribution information to the respective author. |
 | SELinux | SELinux status must be enforcing. |
+| Hardware | All hardware features must be working; some exceptions will be considered. | 
 | Testing | Conduct thorough testing of all device fixes to ensure functionality and quality. |
 | Updates | Deliver regular updates, with a minimum of two per month, to keep devices functioning optimally. |
 | Troubleshooting | Able to troubleshoot and diagnose device issues by analyzing log data. |
