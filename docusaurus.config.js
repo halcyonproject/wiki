@@ -77,7 +77,7 @@ module.exports = {
           {
             label: "Apply",
             position: "left",
-            to: "/development/maintainership/device-req",
+            to: "/development/maintainership/apply",
           },
           {
             label: "Community",
