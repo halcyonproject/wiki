@@ -1,6 +1,6 @@
 ---
 slug: /development/maintainership/maintainers-req
-sidebar_position: 3
+sidebar_position: 2
 ---
 # Maintainers Requirements
 

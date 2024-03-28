@@ -1,6 +1,6 @@
 ---
 slug: /development/maintainership/maintainers-coc
-sidebar_position: 4
+sidebar_position: 2
 ---
 # Maintainers Code Of Conduct
 
