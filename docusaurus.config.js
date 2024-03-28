@@ -96,7 +96,7 @@ module.exports = {
           {
             label: "Code of Conduct",
             position: "left",
-            to: "/development/maintainership/maintainers-coc",
+            to: "/development/maintainership/coc",
           },
         ],
       },
