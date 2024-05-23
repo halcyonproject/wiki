@@ -15,7 +15,7 @@ title: "crownlte"
 - **RAM:** 4  GB / 6 GB
 - **Storage:** 128 GB / 512 GB UFS 2.1
 - **Battery:** 4000 mAh Li-Ion (non-removable)
-- **Display:** 6.4 in (162.56 mm) 2960x1440 (514 PPI)
+- **Display:** 6.4 in (162.56 mm) 2960x1440 (514 PPI) Super AMOLED
 - **Rear Camera:** 12MP (wide) / 12MP (telephoto)
 - **Front Camera:** 8MP (wide) / 2 MP (Dedicated Iris scanner)
 - **Halcyon Version:** Ursinia

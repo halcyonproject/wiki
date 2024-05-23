@@ -12,10 +12,10 @@ title: "starlte"
 - **Device:** Samsung Galaxy S9
 - **Release Date:** March 2018.
 - **Chipset:** 	Exynos 9810 (10 nm)
-- **RAM:** 4  GB / 6 GB
+- **RAM:** 4  GB
 - **Storage:** 64 GB / 128 GB / 256 GB UFS 2.1
-- **Battery:** 3500 mAh Li-Ion (non-removable)
-- **Display:** 5.8 in (147.32 mm) 2960x1440 (567 PPI)
+- **Battery:** 3000 mAh Li-Ion (non-removable)
+- **Display:** 5.8 in (147.32 mm) 2960x1440 (567 PPI) Super AMOLED
 - **Rear Camera:** 12MP (wide)
 - **Front Camera:** 8MP
 - **Halcyon Version:** Ursinia

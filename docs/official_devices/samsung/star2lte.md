@@ -15,7 +15,7 @@ title: "star2lte"
 - **RAM:** 4  GB / 6 GB
 - **Storage:** 64 GB / 128 GB / 256 GB UFS 2.1
 - **Battery:** 3500 mAh Li-Ion (non-removable)
-- **Display:** 6.2 in (157.48 mm) 2960x1440 (530 PPI) Super AMOLED6.2 in (157.48 mm) 2960x1440 (530 PPI)
+- **Display:** 6.2 in (157.48 mm) 2960x1440 (530 PPI) Super AMOLED
 - **Rear Camera:** 12MP (wide) / 12MP (telephoto)
 - **Front Camera:** 8MP
 - **Halcyon Version:** Ursinia
