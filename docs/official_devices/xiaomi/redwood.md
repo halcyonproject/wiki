@@ -2,7 +2,7 @@
 slug: /devices/redwood
 pagination_next: null
 pagination_prev: null
-title: "redwood*"
+title: "POCO X5 Pro 5G / Redmi Note 12 Pro Speed Edition (redwood)*"
 ---
 
 # POCO X5 Pro 5G / Redmi Note 12 Pro Speed Edition (redwood) - Discontinued

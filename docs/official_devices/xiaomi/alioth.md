@@ -2,7 +2,7 @@
 slug: /devices/alioth
 pagination_next: null
 pagination_prev: null
-title: "alioth*"
+title: "POCO F3 / Mi 11x / Redmi K40 (alioth)*"
 ---
 
 # POCO F3 / Mi 11x / Redmi K40 (alioth) - Discontinued

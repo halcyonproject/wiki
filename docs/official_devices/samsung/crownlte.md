@@ -2,7 +2,7 @@
 slug: /devices/crownlte
 pagination_next: null
 pagination_prev: null
-title: "crownlte"
+title: "Galaxy Note9 (crownlte)"
 ---
 
 # Samsung Galaxy Note9 (crownlte)

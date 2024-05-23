@@ -2,7 +2,7 @@
 slug: /devices/begonia
 pagination_next: null
 pagination_prev: null
-title: "begonia"
+title: "Redmi Note 8 Pro (begonia)"
 ---
 
 # Redmi Note 8 Pro (begonia)

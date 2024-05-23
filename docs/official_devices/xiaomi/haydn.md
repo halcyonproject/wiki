@@ -2,10 +2,10 @@
 slug: /devices/haydn
 pagination_next: null
 pagination_prev: null
-title: "haydn*"
+title: "Mi 11i/11X Pro/Redmi K40 Pro+ (haydn) - Discontinued*"
 ---
 
-# Xiaomi Mi 11i/11X Pro/Redmi K40 Pro+ (haydn) - Discontinued
+# Mi 11i/11X Pro/Redmi K40 Pro+ (haydn) - Discontinued
 :::info
 ## Device Information
 

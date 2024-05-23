@@ -2,7 +2,7 @@
 slug: /devices/citrus
 pagination_next: null
 pagination_prev: null
-title: "citrus"
+title: "POCO M3 (citrus)"
 ---
 
 # POCO M3 (citrus)

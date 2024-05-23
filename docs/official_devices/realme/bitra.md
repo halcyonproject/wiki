@@ -2,7 +2,7 @@
 slug: /devices/bitra
 pagination_next: null
 pagination_prev: null
-title: "bitra*"
+title: "GT Neo2 5G (bitra)*"
 ---
 
 # Realme GT Neo2 5G (bitra) - Discontinued

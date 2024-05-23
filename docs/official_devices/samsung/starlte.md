@@ -2,7 +2,7 @@
 slug: /devices/starlte
 pagination_next: null
 pagination_prev: null
-title: "starlte"
+title: "Galaxy S9 (starlte)"
 ---
 
 # Samsung Galaxy S9 (starlte)

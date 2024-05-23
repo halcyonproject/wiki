@@ -2,7 +2,7 @@
 slug: /devices/lime
 pagination_next: null
 pagination_prev: null
-title: "lime"
+title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
 ---
 
 # Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)
