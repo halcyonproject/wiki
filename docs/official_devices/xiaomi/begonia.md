@@ -40,7 +40,7 @@ Make sure to backup your data before proceeding.
 2. Reboot into recovery mode.
 3. Perform a Format data.
 4. Return to the main menu.
-5. Select Apply Update > Apply from ADB.
+5. Select Apply update > Apply from ADB.
 6. Now you can start sideloading by this command:
 ```
 adb sideload halcyon_begonia-xxxxx.zip

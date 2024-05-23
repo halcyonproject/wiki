@@ -27,18 +27,23 @@ title: "camellia*"
 ## Installation Guide
 caution Make sure to backup your data before proceeding. Make sure your either on MIUI 13+
 
-1. Download the recovery boot.img and ROM in the release folder
-2. Install recovery boot.img using :
+### Installing Recovery
+1. Enter fastboot mode by using a key combination `Power + Vol Down`.
+2. Connect your device to your PC via USB.
+4. Verify that your PC detects the device with `fastboot devices`.
+5. Flash the recovery onto your device using `fastboot flash boot boot.img`.
+6. Reboot into recovery mode by holding `Power + Vol Up`.
+
+### Installing ROM
+1. Download the latest release of Halcyon.
+2. Reboot into recovery mode.
+3. Perform a Format data.
+4. Return to the main menu.
+5. Select Apply update > Apply from ADB.
+6. Now you can start sideloading by this command:
 ```
-     fastboot flash boot boot.img
+adb sideload halcyon_begonia-xxxxx.zip
 ```
-3. Boot into it using power + volume up button
-4. In recovery adb sideload must be enabled in the apply update section.
-```
-     adb sideload <rom-name>.zip
-```
-5. Wipe data/factory reset
-6. Reboot and enjoy
 
 ## Troubleshooting
 
