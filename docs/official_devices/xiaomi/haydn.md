@@ -9,7 +9,7 @@ title: "Mi 11i/11X Pro/Redmi K40 Pro+ (haydn) - Discontinued*"
 :::info
 ## Device Information
 
-- **Device:** Xiaomi Mi 11i/11X Pro/Redmi K40 Pro+
+- **Device:** Xiaomi Mi 11i/11X Pro/Redmi K40 Pro
 - **Release Date:** May 05, 2021
 - **Chipset:** 	Qualcomm SM8350 Snapdragon 888 5G
 - **RAM:** 8 GB / 12 GB

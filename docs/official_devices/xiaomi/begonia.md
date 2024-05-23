@@ -2,10 +2,10 @@
 slug: /devices/begonia
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 8 Pro (begonia)"
+title: "Redmi Note 8 Pro (begonia)*"
 ---
 
-# Redmi Note 8 Pro (begonia)
+# Redmi Note 8 Pro (begonia) - Discontinued
 :::info
 ## Device Information
 
@@ -18,7 +18,7 @@ title: "Redmi Note 8 Pro (begonia)"
 - **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
 - **Camera:** Quad 64 MP (main) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Halcyon Version:** Ursinia
-- **Maintainer:** [herobuxx](https://github.com/herobuxx)
+- **Maintainer:** None
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
