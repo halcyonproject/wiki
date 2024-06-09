@@ -8,6 +8,9 @@ sidebar_class_name: hidden
 
 # Supported Devices
 
+### Realme
+- [Realme GT Neo2 5G (bitra)](/devices/bitra)
+
 ### Samsung
 - [Galaxy Note9 (crownlte)](/devices/crownlte)
 - [Galaxy S9+ (star2lte)](/devices/star2lte)
@@ -18,9 +21,6 @@ sidebar_class_name: hidden
 - [Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)](/devices/lime)
 
 ## Devices with discontinued support
-
-### Realme
-- [Realme GT Neo2 5G (bitra)](/devices/bitra)
 
 ### Xiaomi
 - [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)
