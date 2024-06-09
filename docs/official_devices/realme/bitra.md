@@ -2,7 +2,7 @@
 slug: /devices/bitra
 pagination_next: null
 pagination_prev: null
-title: "GT Neo2 5G (bitra)*"
+title: "GT Neo2 5G (bitra)"
 ---
 
 # Realme GT Neo2 5G (bitra)
@@ -18,7 +18,7 @@ title: "GT Neo2 5G (bitra)*"
 - **Display:** 6.62 inch, 1080 x 2400 (20:9 ratio) AMOLED, 120Hz, HDR10+
 - **Rear Camera:** 64MP (wide) / 8MP (ultrawide) / 2MP (macro)
 - **Front Camera:** 16MP (wide)
-- **Halcyon Version:** Tithonia
+- **Halcyon Version:** Ursinia
 - **Maintainer:** EisregenHaha
 :::
 
