@@ -41,8 +41,12 @@ cd halcyon
 Initialize the Repo tool in the newly created directory:
 
 ```
-repo init -u https://github.com/halcyonproject/manifest -b ursinia
+repo init -u https://github.com/halcyonproject/manifest -b 14.2
 ```
+
+:::info
+Since we've update to our versioning and source code branching system, every branch follows a clear format: `Android Version.Update Number` (e.g., 14.2 for for QPR2). 
+:::
 
 This command initializes the Repo tool with the URL of the Halcyon Project repository.
 
