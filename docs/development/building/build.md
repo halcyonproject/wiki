@@ -25,6 +25,7 @@ lunch halcyon_DEVICE-RELEASE-userdebug
 | Release Type | Branch |
 |--------------|--------|
 | ap1a         | 14.2   |
+| ap2a         | 14.3   |
 
 ## Proceed with the build
 ```
