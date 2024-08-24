@@ -20,6 +20,7 @@ sidebar_class_name: hidden
 - [POCO M3 (citrus)](/devices/citrus)
 - [Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)](/devices/lime)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
+- [Redmi Note 8 Pro (begonia)](/devices/begonia)
 
 ## Devices with discontinued support
 
@@ -29,7 +30,4 @@ sidebar_class_name: hidden
 - [Xiaomi Mi 11i/11X Pro/Redmi K40 Pro+ (haydn)](/devices/haydn)
 - [Xiaomi 11 Lite 5G NE (lisa)](/devices/lisa)
 - [POCO X5 Pro 5G / Redmi Note 12 Pro Speed Edition (redwood)](/devices/redwood)
-- [Redmi Note 8 Pro (begonia)](/devices/begonia)
 - [Redmi Note 10S/11SE India (rosemary)](/devices/rosemary)
-
-
