@@ -19,7 +19,7 @@ title: "Xiaomi 11 Lite 5G NE (lisa)*"
 - **Rear Camera:** Triple 64 MP (main) + 8 MP (ultrawide) + 5 MP (telephoto macro)
 - **Front Camera:** 20 MP
 - **Halcyon Version:** Tithonia
-- **Maintainer:** None
+- **Maintainer:** 
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>

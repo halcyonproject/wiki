@@ -19,7 +19,7 @@ title: "POCO M3 Pro/Redmi Note 10T/10 5G/11 SE (camellia)*"
 - **Rear Camera:** Triple 48 MP (wide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 8 MP
 - **Halcyon Version:** Tithonia
-- **Maintainer:** None
+- **Maintainer:** 
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>

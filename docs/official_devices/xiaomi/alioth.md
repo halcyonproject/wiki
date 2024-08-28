@@ -19,7 +19,7 @@ title: "POCO F3 / Mi 11x / Redmi K40 (alioth)*"
 - **Rear Camera:** Triple 48 MP (main) + 8 MP (ultrawide) + 5 MP (telephoto macro)
 - **Front Camera:** 20 MP (wide)
 - **Halcyon Version:** Tithonia
-- **Maintainer:** None
+- **Maintainer:** 
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>

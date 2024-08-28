@@ -19,7 +19,7 @@ title: "POCO X5 Pro 5G / Redmi Note 12 Pro Speed Edition (redwood)*"
 - **Rear Camera:** Triple 108 MP (main) + 8 MP (ultrawide) + 2 MP (telephoto macro)
 - **Front Camera:** 16 MP
 - **Halcyon Version:** Tithonia
-- **Maintainer:** None
+- **Maintainer:** 
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>

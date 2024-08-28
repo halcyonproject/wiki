@@ -2,7 +2,7 @@
 slug: /devices/garnet
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)*"
+title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)"
 ---
 
 # Redmi Note 13 Pro 5G / POCO X6 5G (garnet)

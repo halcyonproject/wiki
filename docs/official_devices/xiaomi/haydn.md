@@ -2,7 +2,7 @@
 slug: /devices/haydn
 pagination_next: null
 pagination_prev: null
-title: "Mi 11i/11X Pro/Redmi K40 Pro+ (haydn) - Discontinued*"
+title: "Mi 11i/11X Pro/Redmi K40 Pro+ (haydn)*"
 ---
 
 # Mi 11i/11X Pro/Redmi K40 Pro+ (haydn) - Discontinued
@@ -19,7 +19,7 @@ title: "Mi 11i/11X Pro/Redmi K40 Pro+ (haydn) - Discontinued*"
 - **Rear Camera:** Triple 108 MP (main) + 8 MP (ultrawide) + 5 MP (telephoto macro)
 - **Front Camera:** 20 MP
 - **Halcyon Version:** Tithonia
-- **Maintainer:** None
+- **Maintainer:** 
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
