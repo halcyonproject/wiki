@@ -9,7 +9,7 @@ title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
 :::info
 ## Device Information
 
-- **Device:** Redmi 9T/9T NFC/8 Power/Note 9 4G
+- **Device:** Redmi 9T/9T NFC/9 Power/Note 9 4G
 - **Release Date:** January 08, 2021
 - **Chipset:** 	Qualcomm SM6115 Snapdragon 662
 - **RAM:** 4 GB / 6 GB
