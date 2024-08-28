@@ -18,7 +18,7 @@ title: "Redmi Note 8 Pro (begonia)"
 - **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
 - **Camera:** Quad 64 MP (main) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Halcyon Version:** Ursinia
-- **Maintainer:** [MrErenK](https://github.com/MrErenK)
+- **Maintainer:** [MrErenK](https://github.com/MrErenK), and [herobuxx](https://github.com/herobuxx)
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
