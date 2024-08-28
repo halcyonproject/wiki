@@ -2,7 +2,7 @@
 slug: /devices/crownlte
 pagination_next: null
 pagination_prev: null
-title: "Galaxy Note9 (crownlte)"
+title: "Galaxy Note9 (crownlte)*"
 ---
 
 # Samsung Galaxy Note9 (crownlte)
@@ -19,7 +19,7 @@ title: "Galaxy Note9 (crownlte)"
 - **Rear Camera:** 12MP (wide) / 12MP (telephoto)
 - **Front Camera:** 8MP (wide) / 2 MP (Dedicated Iris scanner)
 - **Halcyon Version:** Ursinia
-- **Maintainer:** [herobuxx](https://github.com/herobuxx)
+- **Maintainer:** 
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>

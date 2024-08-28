@@ -11,11 +11,6 @@ sidebar_class_name: hidden
 ### Realme
 - [Realme GT Neo2 5G (bitra)](/devices/bitra)
 
-### Samsung
-- [Galaxy Note 9 (crownlte)](/devices/crownlte)
-- [Galaxy S9+ (star2lte)](/devices/star2lte)
-- [Galaxy S9 (starlte)](/devices/starlte)
-
 ### Xiaomi
 - [POCO M3 (citrus)](/devices/citrus)
 - [Redmi Note 8 Pro (begonia)](/devices/begonia)
@@ -23,6 +18,11 @@ sidebar_class_name: hidden
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 
 ## Devices with discontinued support
+
+### Samsung
+- [Galaxy Note 9 (crownlte)](/devices/crownlte)
+- [Galaxy S9+ (star2lte)](/devices/star2lte)
+- [Galaxy S9 (starlte)](/devices/starlte)
 
 ### Xiaomi
 - [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)

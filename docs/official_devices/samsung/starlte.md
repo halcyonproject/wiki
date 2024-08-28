@@ -2,7 +2,7 @@
 slug: /devices/starlte
 pagination_next: null
 pagination_prev: null
-title: "Galaxy S9 (starlte)"
+title: "Galaxy S9 (starlte)*"
 ---
 
 # Samsung Galaxy S9 (starlte)
@@ -19,7 +19,7 @@ title: "Galaxy S9 (starlte)"
 - **Rear Camera:** 12MP (wide)
 - **Front Camera:** 8MP
 - **Halcyon Version:** Ursinia
-- **Maintainer:** [herobuxx](https://github.com/herobuxx)
+- **Maintainer:** 
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
