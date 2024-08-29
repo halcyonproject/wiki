@@ -16,6 +16,7 @@ sidebar_class_name: hidden
 - [Redmi Note 8 Pro (begonia)](/devices/begonia)
 - [Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)](/devices/lime)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
+- [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 
 ## Devices with discontinued support
 
