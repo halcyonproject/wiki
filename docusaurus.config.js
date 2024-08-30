@@ -1,39 +1,38 @@
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 module.exports = {
-  title: 'Halcyon Wiki',
-  tagline: 'Welcome to the Halcyon Wiki!',
-  favicon: 'img/favicon.ico',
-  url: 'https://wiki.hlcyn.co',
-  baseUrl: '/',
-  organizationName: 'halcyonproject',
-  projectName: 'wiki',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  title: "Halcyon Wiki",
+  tagline: "Welcome to the Halcyon Wiki!",
+  favicon: "img/favicon.ico",
+  url: "https://wiki.hlcyn.co",
+  baseUrl: "/",
+  organizationName: "halcyonproject",
+  projectName: "wiki",
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
-  
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          routeBasePath: '/',
+          routeBasePath: "/",
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
   ],
-  
+
   themes: [
     [
       "@easyops-cn/docusaurus-search-local",
@@ -50,14 +49,14 @@ module.exports = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'dark',
-        disableSwitch: true
+        defaultMode: "dark",
+        disableSwitch: true,
       },
       navbar: {
-        title: 'Wiki',
+        title: "Wiki",
         logo: {
-          alt: 'Halcyon Logo',
-          src: 'img/logo.png',
+          alt: "Halcyon Logo",
+          src: "img/logo.png",
         },
         items: [
           {
@@ -106,6 +105,14 @@ module.exports = {
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
+      },
+      announcementBar: {
+        id: "pin",
+        content:
+          'Ursinia 14.3 is now available! see <a target="_blank" rel="noopener noreferrer" href="/devices">supported devices</a>.',
+        backgroundColor: "#1E201E",
+        textColor: "#f3d2d2",
+        isCloseable: true,
       },
     }),
 };
