@@ -22,7 +22,7 @@ title: "POCO X3 / POCO X3 NFC (surya)"
 - **Maintainer:** lily985
 :::
 
-<a href="" class="button button--primary">Get builds</a>
+<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution
