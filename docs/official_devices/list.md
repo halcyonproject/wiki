@@ -19,6 +19,9 @@ sidebar_class_name: hidden
 - [Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)](/devices/lime)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 
+### Nothing
+- [Phone 2 (Pong)](/devices/Pong)
+
 ## Devices with discontinued support
 
 ### Samsung
