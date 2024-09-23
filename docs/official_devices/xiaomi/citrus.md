@@ -2,7 +2,7 @@
 slug: /devices/citrus
 pagination_next: null
 pagination_prev: null
-title: "POCO M3 (citrus)"
+title: "POCO M3 (citrus)*"
 ---
 
 # POCO M3 (citrus)
@@ -19,7 +19,7 @@ title: "POCO M3 (citrus)"
 - **Rear Camera:** Quad 48 MP (main) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 8 MP
 - **Halcyon Version:** Ursinia
-- **Maintainer:** [herobuxx](https://github.com/herobuxx)
+- **Maintainer:**
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>

@@ -2,7 +2,7 @@
 slug: /devices/lime
 pagination_next: null
 pagination_prev: null
-title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
+title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)*"
 ---
 
 # Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)
@@ -19,7 +19,7 @@ title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
 - **Rear Camera:** Quad 48 MP (main) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 8 MP
 - **Halcyon Version:** Ursinia
-- **Maintainer:** [herobuxx](https://github.com/herobuxx)
+- **Maintainer:**
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
