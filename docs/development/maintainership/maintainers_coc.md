@@ -1,9 +1,9 @@
 ---
 slug: /development/maintainership/coc
 sidebar_position: 2
-title: "Code Of Conduct"
+title: "Code of Conduct"
 ---
-# Maintainers Code Of Conduct
+# Maintainers Code of Conduct
 
 To foster a positive and collaborative community, we have established the following guidelines that all maintainers must adhere to. These rules define what maintainers are expected to do and refrain from doing to ensure the integrity and quality of the project.  
 
