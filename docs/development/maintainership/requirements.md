@@ -4,7 +4,7 @@ sidebar_position: 1
 pagination_prev: null
 ---
 
-# Maintainership Requirements
+# Requirements
 To become Halcyon Official Device Maintainers, you have to complete following requirements:
 
 | **Requirement** | **Description** |
@@ -18,11 +18,3 @@ To become Halcyon Official Device Maintainers, you have to complete following re
 | Testing | Conduct thorough testing of all device fixes to ensure functionality and quality. |
 | Updates | Deliver regular updates, with a minimum of two per month, to keep devices functioning optimally. |
 | Troubleshooting | Able to troubleshoot and diagnose device issues by analyzing log data. |
-
-
-#### Preferred Qualifications
-
-| Qualification | Description |
-|---|---|
-| CI/CD Experience (Optional) | Experience with Jenkins for continuous integration and deployment (CI/CD) is a plus. |
-| Pre-release Testing (Optional) | Experience building and testing unofficial software versions prior to release. |
