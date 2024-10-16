@@ -23,6 +23,7 @@ title: "POCO F6 / Redmi Turbo 3 (peridot)"
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://www.pling.com/p/1685941/" class="button button--primary">Get builds - Beta</a>
 
 ## Installation Guide
 :::caution

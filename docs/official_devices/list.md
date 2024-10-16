@@ -9,7 +9,7 @@ sidebar_class_name: hidden
 # Supported Devices
 
 ### Xiaomi
-- [POCO F6 / Redmi Turbo 3 (peridot)](/device/peridot)
+- [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 - [POCO X5 5G / Redmi Note 12 5G (stone)](/devices/stone)
 - [Redmi Note 8 Pro (begonia)](/devices/begonia)
