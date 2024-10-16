@@ -8,9 +8,6 @@ sidebar_class_name: hidden
 
 # Supported Devices
 
-### Realme
-- [Realme GT Neo2 5G (bitra)](/devices/bitra)
-
 ### Xiaomi
 - [POCO F6 / Redmi Turbo 3 (peridot)](/device/peridot)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
@@ -22,6 +19,9 @@ sidebar_class_name: hidden
 - [Phone 2 (Pong)](/devices/Pong)
 
 ## Devices with discontinued support
+
+### Realme
+- [Realme GT Neo2 5G (bitra)](/devices/bitra)
 
 ### Samsung
 - [Galaxy Note 9 (crownlte)](/devices/crownlte)
