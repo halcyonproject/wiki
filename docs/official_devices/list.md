@@ -9,7 +9,7 @@ sidebar_class_name: hidden
 # Supported Devices
 
 ### Xiaomi
-- [POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)](devices/miatoll)
+- [POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)](/devices/miatoll)
 - [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 - [POCO X5 5G / Redmi Note 12 5G (stone)](/devices/stone)
