@@ -18,11 +18,12 @@ title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)"
 - **Display:** 6.67 inches, AMOLED, HDR10+, 120Hz, 1220x2712 pixels
 - **Rear Camera:** Triple 200/64 MP (main) + 8 MP (ultrawide) + 2 MP (telephoto macro)
 - **Front Camera:** 16 MP (wide)
-- **Halcyon Version:** Ursinia
+- **Halcyon Version:** Ursinia, Viola
 - **Maintainer:** Soni Dharma
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://www.pling.com/p/1685941/" class="button button--primary">Get builds - Beta</a>
 
 ## Installation Guide
 :::caution
