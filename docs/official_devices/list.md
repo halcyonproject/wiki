@@ -15,6 +15,7 @@ sidebar_class_name: hidden
 - [POCO X5 5G / Redmi Note 12 5G (stone)](/devices/stone)
 - [Redmi Note 8 Pro (begonia)](/devices/begonia)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
+- [Redmi Note 11S / POCO M4 Pro (fleur)](/devices/fleur)
 
 ### Nothing
 - [Phone 2 (Pong)](/devices/Pong)
