@@ -13,7 +13,9 @@ sidebar_class_name: hidden
 - [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 - [POCO X5 5G / Redmi Note 12 5G (stone)](/devices/stone)
+- [Redmi 9 (lancelot)](/devices/lancelot)
 - [Redmi Note 8 Pro (begonia)](/devices/begonia)
+- [Redmi Note 9 (merlinx)](/devices/merlinx)
 - [Redmi Note 11S / POCO M4 Pro (fleur)](/devices/fleur)
 
 ### Nothing
