@@ -5,7 +5,7 @@ pagination_prev: null
 title: "POCO M3 (citrus)*"
 ---
 
-# POCO M3 (citrus)
+# POCO M3 (citrus) - Discontinued
 :::info
 ## Device Information
 

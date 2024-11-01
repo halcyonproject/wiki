@@ -5,7 +5,7 @@ pagination_prev: null
 title: "POCO X5 5G / Redmi Note 12 5G (stone)"
 ---
 
-# POCO X5 5G / Redmi Note 12 5G(stone)
+# POCO X5 5G / Redmi Note 12 5G (stone)
 :::info
 ## Device Information
 
