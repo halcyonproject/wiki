@@ -17,22 +17,21 @@ Welcome to the official documentation page for Halcyon, a simple yet powerful AO
 This wiki is powered by [Docusaurus](https://docusaurus.io/), and contributions are welcome! Take a look at our source code on GitHub:  
 [Halcyon Wiki Source Code](https://github.com/halcyonproject/wiki).
 
+## Getting started
 
-<div style={{ display: 'flex', justifyContent: 'space-between' }}>
+<div className="responsive-container">
+  <div>
+    <h2>For Users</h2>
+    <ul>
+      <li><a href="/devices">Supported Devices</a></li>
+    </ul>
+  </div>
 
-<div style={{ width: '48%', padding: '10px' }}>
-  <h2>For Users</h2>
-  <ul>
-    <li><a href="/devices">Supported Devices</a></li>
-  </ul>
-</div>
-
-<div style={{ width: '48%', padding: '10px' }}>
-  <h2>For Developers</h2>
-  <ul>
-    <li><a href="/development/building/downloading_source">Building Halcyon</a></li>
-    <li><a href="/development/maintainership/apply">Official Maintainership</a></li>
-  </ul>
-</div>
-
+  <div>
+    <h2>For Developers</h2>
+    <ul>
+      <li><a href="/development/building/downloading_source">Building Halcyon</a></li>
+      <li><a href="/development/maintainership/apply">Official Maintainership</a></li>
+    </ul>
+  </div>
 </div>

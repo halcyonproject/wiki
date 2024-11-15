@@ -95,3 +95,20 @@ html[data-theme='dark'] .header-x-link:before {
 .hidden {
   display: none !important;
 }
+
+.responsive-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.responsive-container > div {
+  width: 48%;
+  padding: 10px;
+}
+
+@media (max-width: 768px) {
+  .responsive-container > div {
+    width: 100%;
+  }
+}
