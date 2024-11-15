@@ -19,7 +19,7 @@ title: "Phone 2 (Pong)*"
 - **Rear Camera:** Main 50MP (Sony IMX890 sensor) + Ultrawide 50MP (Samsung JN1 sensor) 
 - **Front Camera:** 32MP
 - **Halcyon Version:** Ursinia
-- **Maintainer:** AgBKartikey
+- **Maintainer:**
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
