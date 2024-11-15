@@ -2,10 +2,10 @@
 slug: /devices/Pong
 pagination_next: null
 pagination_prev: null
-title: "Phone 2 (Pong)"
+title: "Phone 2 (Pong)*"
 ---
 
-# Nothing Phone 2 (Pong)
+# Nothing Phone 2 (Pong) - Discontinued
 :::info
 ## Device Information
 

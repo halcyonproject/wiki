@@ -2,10 +2,10 @@
 slug: /devices/stone
 pagination_next: null
 pagination_prev: null
-title: "POCO X5 5G / Redmi Note 12 5G (stone)"
+title: "POCO X5 5G / Redmi Note 12 5G (stone)*"
 ---
 
-# POCO X5 5G / Redmi Note 12 5G (stone)
+# POCO X5 5G / Redmi Note 12 5G (stone) - Discontinued
 :::info
 ## Device Information
 
