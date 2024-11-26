@@ -17,7 +17,7 @@ title: "Redmi Note 8 Pro (begonia)"
 - **Battery:** 4500 mAh
 - **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
 - **Camera:** Quad 64 MP (main) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
-- **Halcyon Version:** Ursinia
+- **Halcyon Version:** Ursinia, Viola
 - **Maintainer:** [MrErenK](https://github.com/MrErenK), and [herobuxx](https://github.com/herobuxx)
 :::
 
