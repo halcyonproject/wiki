@@ -22,3 +22,4 @@ title: "Redmi Note 8 Pro (begonia)"
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://www.pling.com/p/1685941/" class="button button--primary">Get builds - Viola Beta</a>
