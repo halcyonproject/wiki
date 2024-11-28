@@ -34,7 +34,7 @@ Make sure to backup your data before proceeding.
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.
 3. Verify that your PC detects the device with `fastboot devices`.
-4. Flash the boot image onto your device using `fastboot flash recovery recovery.img`.
+4. Flash the recovery image onto your device using `fastboot flash recovery recovery.img`.
 5. Reboot into recovery mode by typing `fastboot reboot recovery` in command line or by holding `Power + Vol Up`.
 
 ### Installing ROM
