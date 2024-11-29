@@ -1,5 +1,5 @@
 ---
-slug: /devices/fleur
+slug: /devices/gale
 pagination_next: null
 pagination_prev: null
 title: "Redmi 13C / POCO C65 (gale/gust)"
