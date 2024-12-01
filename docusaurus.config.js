@@ -113,7 +113,7 @@ module.exports = {
       announcementBar: {
         id: "pin",
         content:
-          'Ursinia 14.3 is now available! see <a target="_blank" rel="noopener noreferrer" href="/devices">supported devices</a>.',
+          'Viola 15.0 Beta is now available! see <a target="_blank" rel="noopener noreferrer" href="/devices">supported devices</a>.',
         backgroundColor: "#1E201E",
         textColor: "#f3d2d2",
         isCloseable: true,
