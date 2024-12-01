@@ -16,10 +16,13 @@ title: "Redmi Note 11S / POCO M4 Pro (fleur)"
 - **Display:** 6.43 inches, AMOLED, FHD+, 90Hz, 1080x2400 pixels
 - **Rear Camera:** Triple 64 MP (main) + 8 MP (ultrawide) + 2 MP (macro)
 - **Front Camera:** 16 MP (wide)
-- **Halcyon Version:** Ursinia
+- **Halcyon Version:** Ursinia, Viola
 - **Maintainer:** [Ido](https://github.com/xyzuniverse)
 :::
+
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://www.pling.com/p/1685941/" class="button button--primary">Get builds - Beta</a>
+
 ## Installation Guide
 :::caution
 Make sure to backup your data before proceeding. If you're from 4.14 based ROMs make sure you have flashed latest HyperOS Global firmware first!
