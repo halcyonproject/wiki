@@ -15,10 +15,10 @@ title: "Redmi Note 9 (merlinx)"
 - **RAM:** 3 GB / 4 GB / 6 GB
 - **Storage:** 64 GB / 128 GB
 - **Battery:** 5020 mAh
-- **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels 
+- **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
 - **Rear Camera:** Quad 48 MP (main) + 8 MP (Ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 13 MP
-- **Halcyon Version:** Ursinia
+- **Halcyon Version:** Ursinia, Viola
 - **Maintainer:** HeroBuxx, and rktdnt
 :::
 
