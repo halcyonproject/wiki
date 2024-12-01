@@ -15,10 +15,10 @@ title: "Redmi 9 (lancelot)"
 - **RAM:** 3 GB / 4 GB / 6 GB
 - **Storage:** 32 GB / 64 GB / 128 GB
 - **Battery:** 5020 mAh
-- **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels 
+- **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
 - **Rear Camera:** Quad 13 MP (main) + 8 MP (Ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 8 MP
-- **Halcyon Version:** Ursinia
+- **Halcyon Version:** Ursinia, Viola
 - **Maintainer:** HeroBuxx, and rktdnt
 :::
 
