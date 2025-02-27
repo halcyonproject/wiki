@@ -14,7 +14,7 @@ title: "Redmi 13C / POCO C65 (gale/gust)"
 - **Storage:** 128 GB / 256 GB
 - **Battery:** 5000 mAh
 - **Display:** 6.74 inches, IPS LCD, 90Hz, 720x1600 pixels
-- **Rear Camera:** Triple 50 MP (widr) + 2 MP (macro)
+- **Rear Camera:** Triple 50 MP (wide) + 2 MP (macro)
 - **Front Camera:** 8 MP (wide)
 - **Halcyon Version:** Ursinia
 - **Maintainer:** [Rex](https://github.com/sabrina010209)

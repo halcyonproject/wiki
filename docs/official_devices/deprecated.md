@@ -27,6 +27,7 @@ The devices listed below have been dropped and will no longer receive updates un
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 - [Xiaomi Mi 11i/11X Pro/Redmi K40 Pro+ (haydn)](/devices/haydn)
 - [Xiaomi 11 Lite 5G NE (lisa)](/devices/lisa)
+- [Redmi 13C / POCO C65 (gale/gust)](/devices/gale)
 
 ### Nothing
 - [Phone 2 (Pong)](/devices/Pong)
