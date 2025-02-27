@@ -6,6 +6,9 @@ title: "Supported Devices"
 sidebar_class_name: hidden
 ---
 
+### Motorola
+- [Moto G84 5G (bangkk)](/devices/bangkk)
+
 ### Xiaomi
 - [POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)](/devices/miatoll)
 - [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
