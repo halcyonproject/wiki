@@ -22,12 +22,12 @@ lunch halcyon_DEVICE-RELEASE-userdebug
 ```
 
 ### Available Release Types
-| Release Type | Branch | Codename | Android Version |
-|--------------|--------|----------|-----------------|
-| ap1a         | 14.2   | Ursinia  | 14 QPR2         |
-| ap2a         | 14.3   | Ursinia  | 14 QPR3         |
-| ap3a         | 15.0   | Viola    | 15 Pre-QPR      |
-| ap4a         | 15.1   | Viola    | 15 QPR1         |
+| Release Type | Branch | Codename | Android Version | Status       |
+|--------------|--------|----------|-----------------|--------------|
+| ap1a         | 14.2   | Ursinia  | 14 QPR2         | Deprecated   |
+| ap2a         | 14.3   | Ursinia  | 14 QPR3         | Deprecated   |
+| ap3a         | 15.0   | Viola    | 15 Pre-QPR      | Deprecated   |
+| ap4a         | 15.1   | Viola    | 15 QPR1         | Default      |
 
 ## Proceed with the build
 ```
