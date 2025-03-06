@@ -1,6 +1,7 @@
 ---
 slug: /team
-
+pagination_next: null
+pagination_prev: null
 title: "Our Team"
 ---
 # Our Team
