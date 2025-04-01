@@ -11,11 +11,6 @@ Our goal is to create a seamless, secure, and optimized Android experience acros
 
 The Project Leader is responsible for overseeing the overall development and direction of the project. They define the long-term vision, set strategic goals, and ensure that all efforts align with the project's mission. This role involves making high-level technical decisions, guiding the team in critical areas, and ensuring smooth collaboration across different development aspects.
 
-## Project Manager
-- **Neroices**
-
-The Project Manager handles organization, scheduling, and resource management. They oversee project timelines, coordinate between different teams, and ensure that tasks are completed efficiently. Their role is to maintain workflow, address roadblocks, and facilitate effective communication among team members.
-
 ## UI/UX Developer
 - **Kshitij**
 - **HeroBuxx**
