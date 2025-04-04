@@ -10,14 +10,14 @@ title: "Redmi 13C / POCO C65 (gale/gust)"
 - **Device:** Redmi 13C / POCO C65
 - **Release Date:** 2023, November 10
 - **Chipset:** 	MediaTek Helio G85 (MT6768)
-- **RAM:**  4GB / 6 GB / 8 GB
+- **RAM:**  4 GB / 6 GB / 8 GB
 - **Storage:** 128 GB / 256 GB
 - **Battery:** 5000 mAh
 - **Display:** 6.74 inches, IPS LCD, 90Hz, 720x1600 pixels
 - **Rear Camera:** Triple 50 MP (wide) + 2 MP (macro)
 - **Front Camera:** 8 MP (wide)
-- **Halcyon Version:** Ursinia
-- **Maintainer:** [Rex](https://github.com/sabrina010209)
+- **Halcyon Version:** Viola
+- **Maintainer:** [wulan17](https://github.com/wulan17)
 :::
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
 ## Installation Guide

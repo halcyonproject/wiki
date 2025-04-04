@@ -17,5 +17,6 @@ sidebar_class_name: hidden
 - [Redmi Note 8 Pro (begonia)](/devices/begonia)
 - [Redmi Note 9 (merlinx)](/devices/merlinx)
 - [Redmi Note 11S / POCO M4 Pro (fleur)](/devices/fleur)
+- [Redmi 13C / Poco C65 (gale/gust)](/devices/gale)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
