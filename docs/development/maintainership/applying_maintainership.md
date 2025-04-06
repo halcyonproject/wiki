@@ -1,7 +1,7 @@
 ---
 slug: /development/maintainership/apply
 pagination_next: null
-sidebar_position: 4
+sidebar_position: 5
 ---
 # Applying for Official Maintainership
 

@@ -1,13 +1,13 @@
 ---
 slug: /development/maintainership/coc
-sidebar_position: 2
+sidebar_position: 4
 title: "Code of Conduct"
 ---
 # Maintainers Code of Conduct
 
-To foster a positive and collaborative community, we have established the following guidelines that all maintainers must adhere to. These rules define what maintainers are expected to do and refrain from doing to ensure the integrity and quality of the project.  
+To foster a positive and collaborative community, we have established the following guidelines that all maintainers must adhere to. These rules define what maintainers are expected to do and refrain from doing to ensure the integrity and quality of the project.
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).  
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](https://tools.ietf.org/html/rfc2119).
 
 ## Maintainers' Responsibilities
 The maintainers:
