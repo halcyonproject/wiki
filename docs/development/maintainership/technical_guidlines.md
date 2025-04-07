@@ -47,8 +47,11 @@ Halcyon allows the inclusion of certain ported features from the stock ROM of a 
 - **MUST** document any changes, including new features, bug fixes, or optimizations, in commit messages or change logs.
 - **MUST** follow any specific instructions from the core team regarding upcoming changes or major updates.
 
-## Release Guidelines
+## Build and Release Process
 
-- **MUST** only submit builds that meet Halcyon’s quality standards.
-- **MUST** communicate with the core team about any issues or blockers during the build process.
-- **MUST** follow the Halcyon release schedule and provide timely updates to the community.
+All official builds for supported devices are compiled by the Halcyon build server. Maintainers are no longer responsible for building or distributing releases themselves.
+
+- Maintainers are **only required to maintain and push buildable, bootable source code** (device tree, vendor tree, kernel, etc.) to the official Halcyon Git repositories.
+- Keeping sources fully up to date is **not mandatory**, but they **must remain functional** for building and booting.
+- If any issue arises, such as **build failure, boot issues, or problems reported by users**, the maintainer is **REQUIRED** to resolve it as soon as possible.
+- This process ensures a **unified and consistent release flow** for all official Halcyon builds.
