@@ -15,6 +15,7 @@ To become Halcyon Official Device Maintainers, you have to complete following re
 | Authorship | All code contributions must include proper attribution information to the respective author. |
 | SELinux | SELinux status must be enforcing. |
 | Hardware | All hardware features must be working; some exceptions will be considered. | 
+| Kernel Source | Devices with OEM-released kernel sources must not use prebuilt kernels. The kernel must be compiled from source to ensure transparency and proper integration. **Only devices that support GKI (Generic Kernel Image)** are allowed to use prebuilt kernel images. |
 | Testing | Conduct thorough testing of all device fixes to ensure functionality and quality. |
 | Updates | Deliver regular updates, with a minimum of two per month, to keep devices functioning optimally. |
 | Troubleshooting | Able to troubleshoot and diagnose device issues by analyzing log data. |
