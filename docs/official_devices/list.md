@@ -18,5 +18,6 @@ sidebar_class_name: hidden
 - [Redmi Note 9 (merlinx)](/devices/merlinx)
 - [Redmi Note 11S / POCO M4 Pro (fleur)](/devices/fleur)
 - [Redmi 13C / Poco C65 (gale/gust)](/devices/gale)
+- [Redmi 11 Prime / POCO M5 (rock/stone)](/devices/rock)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
