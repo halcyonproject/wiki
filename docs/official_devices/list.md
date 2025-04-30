@@ -19,5 +19,6 @@ sidebar_class_name: hidden
 - [Redmi Note 11S / POCO M4 Pro (fleur)](/devices/fleur)
 - [Redmi 13C / Poco C65 (gale/gust)](/devices/gale)
 - [Redmi 11 Prime / POCO M5 (rock/stone)](/devices/rock)
+- [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
