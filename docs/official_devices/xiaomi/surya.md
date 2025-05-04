@@ -19,7 +19,7 @@ title: "POCO X3 / POCO X3 NFC (surya)"
 - **Rear Camera:** Quad 64 MP (wide) + 13 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 20 MP (wide)
 - **Halcyon Version:** Ursinia, Viola
-- **Maintainer:** lily985
+- **Maintainer:** herobuxx, lily985
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
