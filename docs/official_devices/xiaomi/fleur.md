@@ -2,9 +2,9 @@
 slug: /devices/fleur
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 11S / POCO M4 Pro (fleur)"
+title: "Redmi Note 11S / POCO M4 Pro (fleur)*"
 ---
-# Redmi Note 11S / POCO M4 Pro (fleur)
+# Redmi Note 11S / POCO M4 Pro (fleur) - Discontinued
 :::info
 ## Device Information
 - **Device:** Redmi Note 11S / POCO M4 Pro
@@ -17,7 +17,7 @@ title: "Redmi Note 11S / POCO M4 Pro (fleur)"
 - **Rear Camera:** Triple 64 MP (main) + 8 MP (ultrawide) + 2 MP (macro)
 - **Front Camera:** 16 MP (wide)
 - **Halcyon Version:** Ursinia, Viola
-- **Maintainer:** [Ido](https://github.com/xyzuniverse)
+- **Maintainer:**
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>

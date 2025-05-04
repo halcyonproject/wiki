@@ -2,10 +2,10 @@
 slug: /devices/miatoll
 pagination_next: null
 pagination_prev: null
-title: "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)"
+title: "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)*"
 ---
 
-# POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)
+# POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll) - Discontinued
 :::info
 ## Device Information
 
@@ -19,7 +19,7 @@ title: "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / 
 - **Rear Camera:** Quad 48 MP (main) + 8 MP (ultrawide) + 5 (macro) + 2 (depth) 
 - **Front Camera:** 16 MP (wide)
 - **Halcyon Version:** Ursinia
-- **Maintainer:** RiteshSahany
+- **Maintainer:**
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
