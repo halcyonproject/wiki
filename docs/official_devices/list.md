@@ -10,10 +10,12 @@ sidebar_class_name: hidden
 - [Moto G84 5G (bangkk)](/devices/bangkk)
 
 ### Xiaomi
+- [POCO M3 (citrus)](/devices/citrus)
 - [POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)](/devices/miatoll)
 - [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 - [Redmi 9 (lancelot)](/devices/lancelot)
+- [Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)](/devices/lime)
 - [Redmi Note 8 Pro (begonia)](/devices/begonia)
 - [Redmi Note 9 (merlinx)](/devices/merlinx)
 - [Redmi Note 11S / POCO M4 Pro (fleur)](/devices/fleur)

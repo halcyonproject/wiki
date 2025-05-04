@@ -2,10 +2,10 @@
 slug: /devices/citrus
 pagination_next: null
 pagination_prev: null
-title: "POCO M3 (citrus)*"
+title: "POCO M3 (citrus)"
 ---
 
-# POCO M3 (citrus) - Discontinued
+# POCO M3 (citrus)
 :::info
 ## Device Information
 
