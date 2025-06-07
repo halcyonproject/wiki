@@ -21,5 +21,6 @@ sidebar_class_name: hidden
 - [Redmi Note 9 (merlinx)](/devices/merlinx)
 - [Redmi Note 11S / POCO M4 Pro (fleur)](/devices/fleur)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
+- [Redmi Note 14 4G (tanzanite)](/devices/tanzanite)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
