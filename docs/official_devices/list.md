@@ -6,9 +6,6 @@ title: "Supported Devices"
 sidebar_class_name: hidden
 ---
 
-### Motorola
-- [Moto G84 5G (bangkk)](/devices/bangkk)
-
 ### Xiaomi
 - [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
 - [POCO M3 (citrus)](/devices/citrus)
