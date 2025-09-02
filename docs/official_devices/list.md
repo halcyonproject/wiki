@@ -6,6 +6,9 @@ title: "Supported Devices"
 sidebar_class_name: hidden
 ---
 
+### Motorola
+- [Motorola Edge 40 Neo (manaus)](/devices/manaus/)
+
 ### Xiaomi
 - [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
 - [POCO M3 (citrus)](/devices/citrus)
