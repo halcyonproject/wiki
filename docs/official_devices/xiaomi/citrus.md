@@ -18,11 +18,11 @@ title: "POCO M3 (citrus)"
 - **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
 - **Rear Camera:** Quad 48 MP (main) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 8 MP
-- **Halcyon Version:** Ursinia
-- **Maintainer:**
+- **Halcyon Version:** Tithonia, Ursinia, Viola, Bloom
+- **Maintainer:** herobuxx
 :::
 
-<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.co/builds/citrus/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

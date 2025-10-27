@@ -18,11 +18,11 @@ title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
 - **Display:** 6.53 inches, IPS LCD, 1080 x 2340 pixels
 - **Rear Camera:** Quad 48 MP (main) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 8 MP
-- **Halcyon Version:** Ursinia
-- **Maintainer:**
+- **Halcyon Version:** Tithonia, Ursinia, Viola, Bloom
+- **Maintainer:** herobuxx
 :::
 
-<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.co/builds/lime/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

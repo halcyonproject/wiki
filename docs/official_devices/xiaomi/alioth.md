@@ -2,10 +2,10 @@
 slug: /devices/alioth
 pagination_next: null
 pagination_prev: null
-title: "POCO F3 / Mi 11x / Redmi K40 (alioth)*"
+title: "POCO F3 / Mi 11x / Redmi K40 (alioth)"
 ---
 
-# POCO F3 / Mi 11x / Redmi K40 (alioth) - Discontinued
+# POCO F3 / Mi 11x / Redmi K40 (alioth)
 :::info
 ## Device Information
 
@@ -18,11 +18,11 @@ title: "POCO F3 / Mi 11x / Redmi K40 (alioth)*"
 - **Display:** 6.67 inches, AMOLED, HDR10+, 120Hz, 1080 x 2400 pixels
 - **Rear Camera:** Triple 48 MP (main) + 8 MP (ultrawide) + 5 MP (telephoto macro)
 - **Front Camera:** 20 MP (wide)
-- **Halcyon Version:** Tithonia
-- **Maintainer:** 
+- **Halcyon Version:** Bloom
+- **Maintainer:** bntxperses
 :::
 
-<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.co/builds/alioth/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

@@ -5,7 +5,7 @@ pagination_prev: null
 title: "Moorola Edge 40 Neo (manaus)*"
 ---
 
-# Motorola Edge 40 Neo (manaus)
+# Motorola Edge 40 Neo (manaus) - DEPRECATED
 :::info
 ## Device Information
 
@@ -18,7 +18,7 @@ title: "Moorola Edge 40 Neo (manaus)*"
 - **Display:** 6.55 inches, P-OLED, 144Hz, 1080x2400 pixels
 - **Rear Camera:** 50 MP (wide) + 13 MP (ultrawide)
 - **Front Camera:** 32 MP (wide)
-- **Halcyon Version:** Blumergarten
+- **Halcyon Version:** Bloom
 - **Maintainer:** [Rex](https://github.com/rexix01)
 :::
 

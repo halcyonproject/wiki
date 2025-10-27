@@ -18,12 +18,11 @@ title: "POCO X3 / POCO X3 NFC (surya)"
 - **Display:** 6.67 inches, IPS LCD, HDR10, 120Hz, 1080x2400 pixels
 - **Rear Camera:** Quad 64 MP (wide) + 13 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 20 MP (wide)
-- **Halcyon Version:** Ursinia, Viola
-- **Maintainer:** herobuxx, lily985
+- **Halcyon Version:** Ursinia, Viola, Bloom
+- **Maintainer:** rktdnt, herobuxx
 :::
 
-<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
-<a href="https://www.pling.com/p/1685941/" class="button button--primary">Get builds - Beta</a>
+<a href="https://get.hlcyn.co/builds/surya/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution
