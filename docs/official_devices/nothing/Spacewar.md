@@ -1,5 +1,5 @@
 ---
-slug: /devices/Pong
+slug: /devices/Spacewar
 pagination_next: null
 pagination_prev: null
 title: "Phone 1 (Spacewar)*"
