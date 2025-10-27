@@ -2,16 +2,16 @@
 slug: /devices/Spacewar
 pagination_next: null
 pagination_prev: null
-title: "Phone 1 (Spacewar)*"
+title: "Phone (1) (Spacewar)*"
 ---
 
-# Nothing Phone 1 (Spacewar) - Discontinued
+# Nothing Phone (1) (Spacewar)
 :::info
 ## Device Information
 
-- **Device:** Nothing Phone 1
+- **Device:** Nothing Phone (1)
 - **Release Date:** 12 July 2022
-- **Chipset:** Snapdragon 778G+ 5G (6 nm)
+- **Chipset:** Qualcomm Snapdragon™ 778G+ 5G (SM7325-AE)
 - **RAM:** 8 GB / 12 GB
 - **Storage:** 128 GB / 256 GB (UFS 3.1)
 - **Battery:** 4500 mAh
@@ -19,7 +19,7 @@ title: "Phone 1 (Spacewar)*"
 - **Rear Camera:** 50MP (wide, Sony IMX766) + 50MP (ultrawide, Samsung JN1)
 - **Front Camera:** 16MP
 - **Halcyon Version:** Bloom
-- **Maintainer:** nyxalunee
+- **Maintainer:** nyxalune
 :::
 
 <a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
@@ -33,8 +33,9 @@ Make sure to backup your data before proceeding.
 1. Enter bootloader mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.
 3. Verify that your PC detects the device with `fastboot devices`.
-4. Flash the boot image onto your device using `fastboot flash recovery recovery.img`.
-5. Reboot into recovery mode by typing `fastboot reboot recovery` in command line.
+4. Flash the boot image onto your device using `fastboot flash boot boot.img`.
+5. Flash the vendor boot imahe onto your device using `fastboot flash vendor_boot vendor_boot.img`
+6. Reboot into recovery mode by typing `fastboot reboot recovery` in command line or navigate through bootloader and choose `Reboot to recovery`
 
 ### Installing ROM
 1. Download the latest release of Halcyon.
