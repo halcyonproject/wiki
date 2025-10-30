@@ -41,11 +41,11 @@ cd halcyon
 Initialize the Repo tool in the newly created directory:
 
 ```
-repo init -u https://github.com/halcyonproject/manifest -b 14.3
+repo init -u https://github.com/halcyonproject/manifest -b 16.0 --git-lfs
 ```
 
 :::info
-Since we've update to our versioning and source code branching system, every branch follows a clear format: `Android Version.Update Number` (e.g., 14.3 for for QPR3). 
+Since we've update to our versioning and source code branching system, every branch follows a clear format: `Android Version.Update Number` (e.g., 14.3 for QPR3).
 :::
 
 This command initializes the Repo tool with the URL of the Halcyon Project repository.
@@ -54,7 +54,7 @@ This command initializes the Repo tool with the URL of the Halcyon Project repos
 Sync the local repository with the latest changes from the remote repository:
 
 ```
-repo sync -c -j$(nproc --all) --force-sync
+repo sync -j$(nproc --all) --force-sync
 ```
 
 This command fetches the latest changes and updates your local repository accordingly.

@@ -113,7 +113,7 @@ module.exports = {
       announcementBar: {
         id: "pin",
         content:
-          'Viola 15.1 is now available! see <a target="_blank" rel="noopener noreferrer" href="/devices">supported devices</a>.',
+          'Bloom 16.0 is now available! see <a target="_blank" rel="noopener noreferrer" href="/devices">supported devices</a>.',
         backgroundColor: "#1E201E",
         textColor: "#f3d2d2",
         isCloseable: true,

@@ -12,5 +12,5 @@ The source code will always remain buildable unless a source code maintenance an
 ## Does Halcyon provide OTA updates?
 Currently, we do not provide OTA updates.
 
-## Are GApps included?
-We don't include GApps for some reason. However, you can install them manually if you wish.
+## Are Google Apps included?
+Starting with Bloom 16.0, we include a minimal set of Google apps in GMS builds. However, Vanilla builds are still available.

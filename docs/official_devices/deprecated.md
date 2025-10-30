@@ -9,7 +9,7 @@ sidebar_class_name: hidden
 The devices listed below have been dropped and will no longer receive updates unless a new maintainer takes over.
 
 ### Motorola
-- [Motorola Edge 40 Neo (manaus)](/devices/manaus/)
+- [Motorola Edge 40 Neo (manaus)](/devices/manaus)
 
 ### Realme
 - [Realme GT Neo2 5G (bitra)](/devices/bitra)
