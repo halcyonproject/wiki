@@ -2,7 +2,7 @@
 slug: /devices/garnet
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)*"
+title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)"
 ---
 
 # Redmi Note 13 Pro 5G / POCO X6 5G (garnet)
@@ -18,7 +18,7 @@ title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)*"
 - **Display:** 6.67 inches, AMOLED, HDR10+, 120Hz, 1220x2712 pixels
 - **Rear Camera:** Triple 200/64 MP (main) + 8 MP (ultrawide) + 2 MP (telephoto macro)
 - **Front Camera:** 16 MP (wide)
-- **Halcyon Version:** Viola
+- **Halcyon Version:** Viola, Bloom
 - **Maintainer:** mysellysenpai
 :::
 
