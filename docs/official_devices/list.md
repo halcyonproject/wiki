@@ -11,6 +11,7 @@ sidebar_class_name: hidden
 
 ### Xiaomi
 - [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)
+- [POCO F1 (beryllium)](/devices/beryllium)
 - [POCO M3 (citrus)](/devices/citrus)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
