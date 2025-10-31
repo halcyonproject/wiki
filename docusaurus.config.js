@@ -18,7 +18,12 @@ module.exports = {
   },
 
   future: {
-    experimental_faster: true,
+    experimental_faster: {
+      ssgWorkerThreads: true,
+    },
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+    },
   },
 
   presets: [
