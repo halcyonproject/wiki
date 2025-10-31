@@ -16,3 +16,5 @@ sidebar_class_name: hidden
 - [Redmi 9T / 9T NFC / 8 Power/Note 9 4G (lime)](/devices/lime)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
+
+Refer to [this document](/devices/blacklisted) for a list of blacklisted devices.
