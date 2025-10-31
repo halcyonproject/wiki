@@ -109,7 +109,7 @@ module.exports = {
         ],
       },
       footer: {
-        copyright: `© ${new Date().getFullYear()} Halcyon Project.`,
+        copyright: `© ${new Date().getFullYear()} Halcyon Project. <br /> Android is a trademark of Google LLC.`,
       },
       prism: {
         theme: prismThemes.github,
