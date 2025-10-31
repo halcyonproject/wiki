@@ -2,7 +2,7 @@
 slug: /devices/manaus
 pagination_next: null
 pagination_prev: null
-title: "Moorola Edge 40 Neo (manaus)*"
+title: "Motorola Edge 40 Neo (manaus)*"
 ---
 
 # Motorola Edge 40 Neo (manaus) - DEPRECATED
