@@ -20,7 +20,6 @@ The UI/UX Developer is responsible for designing and refining the user experienc
 ## Platform Developer
 - **HeroBuxx**
 - **Ido**
-- **Noki**
 
 The Platform Developer works on the core Android operating system, optimizing performance, integrating new features, and ensuring stability across different hardware. Their responsibilities include working on system-level improvements, bug fixes, and overall platform enhancements to provide a seamless experience for users.
 
@@ -29,29 +28,18 @@ The Platform Developer works on the core Android operating system, optimizing pe
 
 The Platform Security Maintainer is responsible for keeping security patches up to date with the latest releases from AOSP. They ensure that the system remains protected from vulnerabilities by integrating security updates, monitoring potential risks, and maintaining best security practices within the platform.
 
-## Mediatek Hardware Maintainer
-- **Noki**
-
-The Mediatek Hardware Maintainer ensures that MediaTek-based devices are fully supported within the project. They are responsible for maintaining and optimizing hardware compatibility, updating drivers, fixing chipset-related issues, and improving performance on MediaTek-powered devices.
-
-## Qualcomm Hardware Maintainer
-- **Rex**
-
-Similar to the MediaTek Maintainer, the Qualcomm Hardware Maintainer focuses on supporting Qualcomm-based devices within the project. Their role involves maintaining drivers, ensuring hardware-software integration, troubleshooting chipset-specific issues, and optimizing performance for Qualcomm-powered devices.
-
 ## Graphic Designer
 - **Waze**
-- **HeroBuxx**
 
 A strong visual identity is essential for branding and usability. The Graphic Designer is responsible for creating assets such as icons, illustrations, and promotional materials. They collaborate with UI/UX developers to ensure that the project’s design remains consistent and user-friendly.
 
 ## Web Developer
 - **Neroices**
+- **Ibra Al Tabian**
 
 The Web Developer is responsible for developing, maintaining, and optimizing the project’s official website, as well as the wiki. They ensure that the site remains functional, accessible, and regularly updated with relevant information.
 
 ## DevOps and Infrastructure
 - **EreN**
-- **HeroBuxx**
 
 The DevOps and Infrastructure team is responsible for managing the project’s backend systems and server infrastructure. Their work ensures smooth development operations and maintains system stability for developers and contributors.
