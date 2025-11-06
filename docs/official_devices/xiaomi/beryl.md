@@ -2,14 +2,15 @@
 slug: /devices/beryl
 pagination_next: null
 pagination_prev: null
-title: "REDMI Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl/citrine)"
+title: "Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)"
 ---
 
-# REDMI Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl/citrine)
+# Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)
 :::info
 ## Device Information
 
-- **Device:** REDMI Note 14 5G / 14 SE / POCO M7 Pro 5G
+- **Device:** Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G
+- **Other codenames**: citrine
 - **Release Date:** 2024, September 26
 - **Chipset:** Mediatek Dimensity 7025 Ultra
 - **RAM:** 6GB / 8GB / 12GB
