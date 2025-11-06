@@ -16,6 +16,7 @@ sidebar_class_name: hidden
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 - [Redmi 9T / 9T NFC / 8 Power/Note 9 4G (lime)](/devices/lime)
+- [Poco F5 / Redmi Note 12 Turbo (Marble)](devices/marble)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
 
