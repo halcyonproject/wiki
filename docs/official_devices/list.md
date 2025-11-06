@@ -19,6 +19,7 @@ sidebar_class_name: hidden
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 - [Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)](/devices/beryl)
 - [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
+- [Poco F5 / Redmi Note 12 Turbo (marble)](devices/marble)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
 
