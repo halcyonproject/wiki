@@ -44,7 +44,7 @@ Make sure to backup your data before proceeding.
 5. Select Apply update > Apply from ADB.
 6. Now you can start sideloading by this command:
 ```
-adb sideload halcyon_lime-xxxxx.zip
+adb sideload ota-halcyon_lime-xxxxx.zip
 ```
 
 ## Troubleshooting
