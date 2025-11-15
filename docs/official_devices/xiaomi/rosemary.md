@@ -2,34 +2,33 @@
 slug: /devices/rosemary
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 10S/11SE India (rosemary)*"
+title: "Redmi Note 10S / 11SE India / POCO M5s (rosemary)"
 ---
 
-# Redmi Note 10S/11SE India (rosemary) - Discontinued
+# Redmi Note 10S / 11SE India / POCO M5s (rosemary)
 
 :::info
 ## Device Information
 
-- **Device:** Redmi Note 10S/11SE India
+- **Device:** Redmi Note 10S / 11SE India / POCO M5s
 - **Release Date:** 10 March, 2021
 - **Chipset:** 	Mediatek Helio G95
-- **RAM:** 6 GB / 8 GB
-- **Storage:** 64 GB / 128 GB
+- **RAM:** 4 GB / 6 GB / 8 GB
+- **Storage:** 64 GB / 128 GB / 256 GB
 - **Battery:** 5000 mAh
 - **Display:** 16.33cm (6.43 Inches), 1100 nits peak brightness, 1080 x 2400 pixels, 19.5:9 ratio (~440 ppi density)
 - **Rear Camera:** 64MP(main) + 8MP(Ultra-Wide) + 2MP(Macro) + 2MP(Depth)
 - **Front Camera:** 13 MP
-- **Halcyon Version:** Tithonia
-- **Maintainer:**
+- **Halcyon Version:** Bloom
+- **Maintainer:** probaero
 :::
 
-<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.co/builds/rosemary" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 
 :::caution
-Clean flash required, So make sure to backup your data before proceeding.
-Usage of MIUI 12.5.19.0.RKLINXM is required.
+Make sure to backup your data before proceeding.
 :::
 
 ### Installing Recovery

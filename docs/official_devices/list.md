@@ -18,6 +18,7 @@ sidebar_class_name: hidden
 - [Redmi 9T / 9T NFC / 8 Power/Note 9 4G (lime)](/devices/lime)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 - [Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)](/devices/beryl)
+- [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
 
