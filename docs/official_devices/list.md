@@ -10,16 +10,16 @@ sidebar_class_name: hidden
 - [Phone 1 (Spacewar)](/devices/Spacewar)
 
 ### Xiaomi
-- [POCO F1 (beryllium)](/devices/beryllium)
 - [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)
-- [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
-- [POCO M3 (citrus)](/devices/citrus)
-- [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
-- [Redmi 9T / 9T NFC / 8 Power/Note 9 4G (lime)](/devices/lime)
-- [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 - [Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)](/devices/beryl)
-- [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
+- [POCO F1 (beryllium)](/devices/beryllium)
+- [POCO M3 (citrus)](/devices/citrus)
+- [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
+- [Redmi 9T / 9T NFC / 8 Power/Note 9 4G (lime)](/devices/lime)
 - [Poco F5 / Redmi Note 12 Turbo (marble)](devices/marble)
+- [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
+- [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
+- [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
 
