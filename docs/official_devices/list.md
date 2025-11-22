@@ -6,6 +6,9 @@ title: "Supported Devices"
 sidebar_class_name: hidden
 ---
 
+### Motorola
+- [g34 / g45 5G (fogos)](/devices/fogos)
+
 ### Nothing
 - [Phone 1 (Spacewar)](/devices/Spacewar)
 
