@@ -1,0 +1,1 @@
+(globalThis.webpackChunkwiki=globalThis.webpackChunkwiki||[]).push([[5741],{5741:()=>{}}]);
