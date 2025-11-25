@@ -7,12 +7,15 @@ sidebar_class_name: hidden
 ---
 
 ### Motorola
+
 - [g34 / g45 5G (fogos)](/devices/fogos)
 
 ### Nothing
+
 - [Phone 1 (Spacewar)](/devices/Spacewar)
 
 ### Xiaomi
+
 - [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)
 - [Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)](/devices/beryl)
 - [POCO F1 (beryllium)](/devices/beryllium)
@@ -23,6 +26,7 @@ sidebar_class_name: hidden
 - [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
 - [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
+- [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
 
