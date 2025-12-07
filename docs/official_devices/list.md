@@ -14,6 +14,10 @@ sidebar_class_name: hidden
 
 - [Phone 1 (Spacewar)](/devices/Spacewar)
 
+### Samsung
+
+- [Galaxy M34 5G / Galaxy F34 (m34x)](/devices/m34x)
+
 ### Xiaomi
 
 - [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)
