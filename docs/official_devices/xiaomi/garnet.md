@@ -30,6 +30,10 @@ title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)"
 Make sure to backup your data before proceeding.
 :::
 
+### Fastboot package installation
+
+If you want to install using the Fastboot package, the complete installation guide is available [here](/fastboot-package). Otherwise, you can follow the instructions below to flash via recovery using ADB sideload.
+
 ### Installing Recovery
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.

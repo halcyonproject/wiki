@@ -29,6 +29,10 @@ title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
 Make sure to backup your data before proceeding.
 :::
 
+### Fastboot package installation
+
+If you want to install using the Fastboot package, the complete installation guide is available [here](/fastboot-package). Otherwise, you can follow the instructions below to flash via recovery using ADB sideload.
+
 ### Installing Recovery
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.

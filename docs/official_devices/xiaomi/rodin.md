@@ -32,6 +32,10 @@ title: "POCO X7 Pro / Redmi Turbo 4 (rodin)"
 Before proceeding, please remove all lockscreen security (PIN, password, pattern, and fingerprint) and ensure you have backed up your data. Keeping any lockscreen credentials active while switching ROMs can cause the fingerprint sensor to stop working, and in many cases this issue cannot be easily recovered. We are not responsible for any malfunction resulting from not following these steps.
 :::
 
+### Fastboot package installation
+
+If you want to install using the Fastboot package, the complete installation guide is available [here](/fastboot-package). Otherwise, you can follow the instructions below to flash via recovery using ADB sideload.
+
 ### Installing Recovery
 
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.
