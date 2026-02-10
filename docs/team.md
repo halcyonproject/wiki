@@ -5,41 +5,49 @@ pagination_prev: null
 title: "Our Team"
 ---
 # Our Team
-Our goal is to create a seamless, secure, and optimized Android experience across different hardware platforms. Each member plays a crucial role in maintaining and improving the system, ensuring both performance and usability.
-## Project Leader
-- **HeroBuxx**
 
-The Project Leader is responsible for overseeing the overall development and direction of the project. They define the long-term vision, set strategic goals, and ensure that all efforts align with the project's mission. This role involves making high-level technical decisions, guiding the team in critical areas, and ensuring smooth collaboration across different development aspects.
+Our mission is to deliver a stable, secure, and optimized Android platform across a wide range of hardware. The project is driven by a focused team responsible for core development, code review, and long-term maintenance, ensuring high standards of quality, performance, and usability.
+
+## Project Leader
+- **Alif Fathur**
+
+Alif Fathur is the founder, Project Leader, and Lead Developer. This role is responsible for defining the project’s technical direction and long-term vision, overseeing core source development, and making high-level architectural decisions. The Project Leader also reviews and approves changes submitted by the community and maintainers, ensuring alignment with project standards and objectives.
+
+## Co-lead Developer
+- **Raya Mahardika**
+
+The Co-lead Developer works alongside the Project Leader in core source development and system architecture. Raya Mahardika actively reviews community and maintainer submissions, helps maintain code quality and consistency, and supports day-to-day technical decision-making. This role also ensures project continuity by backing up the Project Leader when they are unavailable.
 
 ## UI/UX Developer
 - **Kshitij**
-- **HeroBuxx**
+- **Alif Fathur**
 
-The UI/UX Developer is responsible for designing and refining the user experience. They focus on creating clean, intuitive interfaces that enhance usability while maintaining visual consistency. This role requires working closely with developers to ensure that designs are effectively implemented without compromising performance.
+UI/UX Developers are responsible for designing and refining the user experience with a focus on clarity, usability, and visual consistency. They collaborate closely with platform and application developers to ensure design decisions are implemented effectively without impacting system performance.
 
 ## Platform Developer
-- **HeroBuxx**
+- **Alif Fathur**
+- **Raya Mahardika**
 - **Ido**
 
-The Platform Developer works on the core Android operating system, optimizing performance, integrating new features, and ensuring stability across different hardware. Their responsibilities include working on system-level improvements, bug fixes, and overall platform enhancements to provide a seamless experience for users.
+Platform Developers focus on the Android platform layer, including system optimization, feature integration, and hardware compatibility. Their responsibilities include core system development, performance improvements, bug fixes, and maintaining overall platform stability.
 
 ## Platform Security Maintainer
 - **Ido**
 
-The Platform Security Maintainer is responsible for keeping security patches up to date with the latest releases from AOSP. They ensure that the system remains protected from vulnerabilities by integrating security updates, monitoring potential risks, and maintaining best security practices within the platform.
+The Platform Security Maintainer is responsible for tracking and integrating security patches from AOSP. This role involves assessing potential vulnerabilities, applying security updates, and ensuring that security best practices are consistently followed throughout the platform.
 
 ## Graphic Designer
 - **Waze**
 
-A strong visual identity is essential for branding and usability. The Graphic Designer is responsible for creating assets such as icons, illustrations, and promotional materials. They collaborate with UI/UX developers to ensure that the project’s design remains consistent and user-friendly.
+The Graphic Designer develops visual assets such as icons, illustrations, and promotional materials. They work in coordination with UI/UX developers to maintain a consistent visual identity and ensure design assets align with the project’s usability goals.
 
 ## Web Developer
 - **Neroices**
 - **Ibra Al Tabian**
 
-The Web Developer is responsible for developing, maintaining, and optimizing the project’s official website, as well as the wiki. They ensure that the site remains functional, accessible, and regularly updated with relevant information.
+Web Developers maintain and improve the project’s official website and documentation platforms, including the wiki. Their responsibilities include ensuring accessibility, reliability, and accurate presentation of project information.
 
 ## DevOps and Infrastructure
 - **EreN**
 
-The DevOps and Infrastructure team is responsible for managing the project’s backend systems and server infrastructure. Their work ensures smooth development operations and maintains system stability for developers and contributors.
+The DevOps and Infrastructure role manages backend services and server infrastructure supporting the project. This includes maintaining system reliability, supporting development workflows, and ensuring stable services for contributors and maintainers.
