@@ -33,5 +33,3 @@ sidebar_class_name: hidden
 - [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
-
-Refer to [this document](/devices/blacklisted) for a list of blacklisted devices.
