@@ -8,7 +8,9 @@ sidebar_class_name: hidden
 
 ### Motorola
 
+- [g84 5G (bangkk)](/devices/bangkk)
 - [g34 / g45 5G (fogos)](/devices/fogos)
+- [g82 5G (rhodep)](/devices/rhodep)
 
 ### Nothing
 

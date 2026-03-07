@@ -1,29 +1,29 @@
 ---
-slug: /devices/fogos
+slug: /devices/bangkk
 pagination_next: null
 pagination_prev: null
-title: "Motorola g34 / g35 5G (fogos)"
+title: "Motorola g84 5G (bangkk)"
 ---
-# Motorola g34 / g35 5G (fogos)
+# Motorola g84 5G (bangkk)
 :::info
 ## Device Information
 
-- **Device:** Motorola G34 / G35 5G  
-- **Release Date:** 2024, August 28  
-- **Chipset:** Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm)  
-- **RAM:** 4 GB / 8 GB  
-- **Storage:** 128 GB  
-- **Battery:** 5000 mAh  
-- **Display:** 6.5 inches, IPS LCD, 120Hz, 720x1600 pixels (~270 ppi)  
-- **Rear Camera:**  
-  - 50 MP, f/1.8 (wide), 1/2.76", 0.64µm, PDAF  
-  - 2 MP (macro)  
-- **Front Camera:** 16 MP, f/2.4 (wide), 1.0µm  
-- **Halcyon Version:** Bloom  
+- **Device:** Motorola g84 5G
+- **Release Date:** 2023, September 08
+- **Chipset:** Qualcomm SM6375 Snapdragon 695
+- **RAM:** 8 / 12 GB
+- **Storage:** 256 GB
+- **Battery:** 5000 mAh
+- **Display:** 6.5 inches, P-OLED, 120Hz, 1080x2400 pixels
+- **Rear Camera:**
+  - 50 MP, LED flash
+  - 8 MP (ultrawide), LED flash
+- **Front Camera:** 16 MP, No flash
+- **Halcyon Version:** Bloom
 - **Maintainer:** herobuxx  
 :::
 
-<a href="https://get.hlcyn.co/builds/fogos/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.co/builds/bangkk/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution
@@ -60,7 +60,7 @@ adb sideload copy-partitions-20220613-signed.zip
 5. Select **Apply update > Apply from ADB**.
 6. Sideload the ROM:
 ```
-adb sideload ota-halcyon_fogos-xxxxx.zip
+adb sideload ota-halcyon_bangkk-xxxxx.zip
 ```
 
 ## Troubleshooting

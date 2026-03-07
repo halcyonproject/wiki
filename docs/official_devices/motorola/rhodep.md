@@ -1,29 +1,30 @@
 ---
-slug: /devices/fogos
+slug: /devices/rhodep
 pagination_next: null
 pagination_prev: null
-title: "Motorola g34 / g35 5G (fogos)"
+title: "Motorola g82 5G (rhodep)"
 ---
-# Motorola g34 / g35 5G (fogos)
+# Motorola g82 5G (rhodep)
 :::info
 ## Device Information
 
-- **Device:** Motorola G34 / G35 5G  
-- **Release Date:** 2024, August 28  
-- **Chipset:** Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm)  
-- **RAM:** 4 GB / 8 GB  
-- **Storage:** 128 GB  
-- **Battery:** 5000 mAh  
-- **Display:** 6.5 inches, IPS LCD, 120Hz, 720x1600 pixels (~270 ppi)  
-- **Rear Camera:**  
-  - 50 MP, f/1.8 (wide), 1/2.76", 0.64µm, PDAF  
-  - 2 MP (macro)  
-- **Front Camera:** 16 MP, f/2.4 (wide), 1.0µm  
-- **Halcyon Version:** Bloom  
-- **Maintainer:** herobuxx  
+- **Device:** Motorola g82 5G
+- **Release Date:** 2022, June 07
+- **Chipset:** Qualcomm SM6375 Snapdragon 695
+- **RAM:** 6 / 8 GB
+- **Storage:** 128 GB
+- **Battery:** 5000 mAh
+- **Display:** 6.6 inches, AMOLED, 120Hz, 1080x2400 pixels
+- **Rear Camera:**
+  - 50 MP, LED flash
+  - 8 MP (ultrawide), No flash
+  - 2 MP (macro), No flash
+- **Front Camera:** 16 MP, No flash
+- **Halcyon Version:** Bloom
+- **Maintainer:** HeroBuxx  
 :::
 
-<a href="https://get.hlcyn.co/builds/fogos/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.co/builds/rhodep/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution
@@ -60,7 +61,7 @@ adb sideload copy-partitions-20220613-signed.zip
 5. Select **Apply update > Apply from ADB**.
 6. Sideload the ROM:
 ```
-adb sideload ota-halcyon_fogos-xxxxx.zip
+adb sideload ota-halcyon_rhodep-xxxxx.zip
 ```
 
 ## Troubleshooting
