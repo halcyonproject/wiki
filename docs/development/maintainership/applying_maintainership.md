@@ -3,15 +3,28 @@ slug: /development/maintainership/apply
 pagination_next: null
 sidebar_position: 5
 ---
+
 # Applying for Official Maintainership
 
-Congratulations, if you already booted Halcyon for Your device!
+**Congratulations on successfully booting Halcyon on your device!** You are one step away from bringing **Enchanted** builds to your users. Joining the official team means your device will receive our premier features, and a spot in our official repository.
 
-To maintain **Halcyon** officially, you have to:
-1. Make sure you completed our [Maintainership Requirements](/development/maintainership/requirements).
-2. If you believe you meet all the requirements stated in the wiki, you can create a Halcyon Account through [@HanabiChanBot](https://t.me/HanabiChanBot) by typing:
-`/register USERNAME`.
-3. Then, send `/apply` and follow the instructions provided by the bot.
-4. Our team will review your application, and reach you as soon as possible.
+---
 
-See you soon on our Maintainers chat!
+### 1. Verify Requirements
+Before applying, ensure your device sources and build stability align with our [Maintainership Requirements](/development/maintainership/requirements). Every **Enchanted** build must meet these quality standards.
+
+### 2. Create a Halcyon Account
+You will need an official identity within our ecosystem. Register via [@HanabiChanBot](https://t.me/HanabiChanBot) on Telegram by typing:
+
+> `/register USERNAME`
+
+### 3. Submit the Application
+Once registered, fill out the formal maintainership form at our portal:
+👉 **[scipio.hlcyn.co](https://scipio.hlcyn.co/)**
+
+---
+
+### Next Steps
+Our team will review your submission and evaluate your device's performance. If everything looks stable, we’ll reach out to welcome you to the team and help you transition your work into an official **Enchanted** build.
+
+See you soon in the Maintainers Chat!
