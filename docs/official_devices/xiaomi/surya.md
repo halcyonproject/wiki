@@ -22,7 +22,7 @@ title: "POCO X3 / POCO X3 NFC (surya)"
 - **Maintainer:** rktdnt, herobuxx
 :::
 
-<a href="https://get.hlcyn.co/builds/surya/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/surya/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

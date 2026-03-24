@@ -23,7 +23,7 @@ title: "Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)"
 - **Maintainer:** naokoshoto
 :::
 
-<a href="https://get.hlcyn.co/builds/beryl/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/beryl/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

@@ -22,7 +22,7 @@ title: "POCO M3 (citrus)"
 - **Maintainer:** herobuxx
 :::
 
-<a href="https://get.hlcyn.co/builds/citrus/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/citrus/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

@@ -22,7 +22,7 @@ title: "POCO F5 / Redmi Note 12 Turbo (marble)"
 - **Maintainer:** [Shakib](https://t.me/Shakib_BD)
 :::
 
-<a href="https://get.hlcyn.co/builds/marble/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/marble/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

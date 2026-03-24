@@ -24,7 +24,7 @@ title: "Motorola g82 5G (rhodep)"
 - **Maintainer:** HeroBuxx  
 :::
 
-<a href="https://get.hlcyn.co/builds/rhodep/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/rhodep/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

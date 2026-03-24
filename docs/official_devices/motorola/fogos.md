@@ -23,7 +23,7 @@ title: "Motorola g34 / g35 5G (fogos)"
 - **Maintainer:** herobuxx  
 :::
 
-<a href="https://get.hlcyn.co/builds/fogos/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/fogos/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

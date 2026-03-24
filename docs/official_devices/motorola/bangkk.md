@@ -23,7 +23,7 @@ title: "Motorola g84 5G (bangkk)"
 - **Maintainer:** herobuxx  
 :::
 
-<a href="https://get.hlcyn.co/builds/bangkk/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/bangkk/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

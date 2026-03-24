@@ -24,7 +24,7 @@ title: "POCO X7 Pro / Redmi Turbo 4 (rodin)"
 - **Maintainer:** [Ido](https://github.com/xyzuniverse)
   :::
 
-<a href="https://get.hlcyn.co/builds/rodin/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/rodin/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 

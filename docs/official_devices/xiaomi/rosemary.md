@@ -23,7 +23,7 @@ title: "Redmi Note 10S / 11SE India / POCO M5s (rosemary)"
 - **Maintainer:** probaero
 :::
 
-<a href="https://get.hlcyn.co/builds/rosemary" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/rosemary" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 

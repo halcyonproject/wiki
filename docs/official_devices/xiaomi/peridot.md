@@ -22,7 +22,7 @@ title: "POCO F6 / Redmi Turbo 3 (peridot)"
 - **Maintainer:** Devansh P.
 :::
 
-<a href="https://get.hlcyn.co/builds/peridot" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/peridot" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

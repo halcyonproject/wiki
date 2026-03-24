@@ -22,7 +22,7 @@ title: "POCO F3 / Mi 11x / Redmi K40 (alioth)"
 - **Maintainer:** bntxperses
 :::
 
-<a href="https://get.hlcyn.co/builds/alioth/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/alioth/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

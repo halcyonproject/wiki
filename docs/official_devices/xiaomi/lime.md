@@ -22,7 +22,7 @@ title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
 - **Maintainer:** herobuxx
 :::
 
-<a href="https://get.hlcyn.co/builds/lime/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/lime/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

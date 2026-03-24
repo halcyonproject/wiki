@@ -20,7 +20,7 @@ You will need an official identity within our ecosystem. Register via [@HanabiCh
 
 ### 3. Submit the Application
 Once registered, fill out the formal maintainership form at our portal:
-👉 **[scipio.hlcyn.co](https://scipio.hlcyn.co/)**
+👉 **[scipio.hlcyn.org](https://scipio.hlcyn.org/)**
 
 ---
 

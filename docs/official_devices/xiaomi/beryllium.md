@@ -22,7 +22,7 @@ title: "POCO F1 (beryllium)"
 - **Maintainer:** ibratabian17
 :::
 
-<a href="https://get.hlcyn.co/builds/beryllium/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/beryllium/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

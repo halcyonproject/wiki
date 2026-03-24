@@ -24,7 +24,7 @@ title: "Redmi Note 14 4G (tanzanite)"
 - **Maintainer:** [Ido](https://github.com/xyzuniverse)
   :::
 
-<a href="https://get.hlcyn.co/builds/tanzanite/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/tanzanite/" class="button button--primary">Get builds</a>
 
 
 ## Installation Guide
