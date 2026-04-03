@@ -28,7 +28,8 @@ title: "Redmi Note 10S / 11SE India / POCO M5s (rosemary)"
 ## Installation Guide
 
 :::caution
-Make sure to backup your data before proceeding.
+- Make sure to backup your data before proceeding.
+- Firmware version 14.0.17.0.TFFMIXM is required.
 :::
 
 ### Fastboot package installation
