@@ -35,5 +35,6 @@ sidebar_class_name: hidden
 - [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 - [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
+- [Redmi Note 14 4G (tanzanite)](/devices/tanzanite)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.

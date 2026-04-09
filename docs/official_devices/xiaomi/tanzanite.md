@@ -20,8 +20,8 @@ title: "Redmi Note 14 4G (tanzanite)"
 - **Display:** 6.67 inches, AMOLED, 120Hz, 1080x2400 pixels
 - **Rear Camera:** Triple 108 MP (wide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 20 MP (wide)
-- **Halcyon Version:** Viola
-- **Maintainer:** [Ido](https://github.com/xyzuniverse)
+- **Halcyon Version:** Bloom
+- **Maintainer:** Nathan
   :::
 
 <a href="https://get.hlcyn.org/builds/tanzanite/" class="button button--primary">Get builds</a>
@@ -30,7 +30,7 @@ title: "Redmi Note 14 4G (tanzanite)"
 ## Installation Guide
 
 :::caution
-Make sure you have fully charged battery and backup your data before proceeding.
+Make sure you have fully charged battery, and backup your data before proceeding.
 :::
 
 ### Installing Recovery
@@ -38,9 +38,8 @@ Make sure you have fully charged battery and backup your data before proceeding.
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.
 3. Verify that your PC detects the device with `fastboot devices`.
-4. Flash empty super image onto your device using `fastboot wipe-super super_empty.img`.
-5. Flash the boot image onto your device using `fastboot flash vendor_boot --slot=all vendor_boot.img`.
-6. Reboot into recovery mode by typing `fastboot reboot` in command line or by holding `Power + Vol Up`.
+4. Flash the boot image onto your device using `fastboot flash vendor_boot --slot=all vendor_boot.img`.
+5. Reboot into recovery mode by typing `fastboot reboot` in command line then hold `Power + Vol Up`.
 
 ### Installing ROM
 
