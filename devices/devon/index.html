@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="generator" content="Docusaurus v3.9.2">
 <title data-rh="true">Motorola g32 (devon)* | Halcyon Wiki</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://wiki.hlcyn.org/devices/devon"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="Motorola g32 (devon)* | Halcyon Wiki"><meta data-rh="true" name="description" content="Device Information"><meta data-rh="true" property="og:description" content="Device Information"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://wiki.hlcyn.org/devices/devon"><link data-rh="true" rel="alternate" href="https://wiki.hlcyn.org/devices/devon" hreflang="en"><link data-rh="true" rel="alternate" href="https://wiki.hlcyn.org/devices/devon" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Motorola g32 (devon)*","item":"https://wiki.hlcyn.org/devices/devon"}]}</script><link rel="stylesheet" href="/assets/css/styles.ae8da5e6.css">
-<script src="/assets/js/runtime~main.dec7e44f.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.c7c58c8f.js" defer="defer"></script>
 <script src="/assets/js/main.9f54d502.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -31,7 +31,7 @@
 <li class=""><strong>Halcyon Version:</strong> Bloom</li>
 <li class=""><strong>Maintainer:</strong> pixelthrived</li>
 </ul></div></div>
-<a href="https://get.hlcyn.co/builds/devon/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/devon/" class="button button--primary">Get builds</a>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="installation-guide">Installation Guide<a href="#installation-guide" class="hash-link" aria-label="Direct link to Installation Guide" title="Direct link to Installation Guide" translate="no">​</a></h2>
 <div class="theme-admonition theme-admonition-caution admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>caution</div><div class="admonitionContent_BuS1"><p>Make sure to back up your data before proceeding.<br>
 <!-- -->Make sure to flash the required firmware to avoid bricks.</p></div></div>
@@ -45,7 +45,7 @@
 <li class="">Flash the dtbo image onto your device using <code>fastboot flash dtbo dtbo.img</code>.</li>
 <li class="">Reboot into the newly installed recovery mode by typing <code>fastboot reboot recovery</code> in the command line, or by navigating through the bootloader and choosing <code>Reboot to recovery</code>.</li>
 </ol>
-<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="flashing-preparation">Flashing Preparation<a href="#flashing-preparation" class="hash-link" aria-label="Direct link to Flashing Preparation" title="Direct link to Flashing Preparation" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="flashing-preparations">Flashing Preparations<a href="#flashing-preparations" class="hash-link" aria-label="Direct link to Flashing Preparations" title="Direct link to Flashing Preparations" translate="no">​</a></h3>
 <div class="theme-admonition theme-admonition-caution admonition_xJq3 alert alert--warning"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>caution</div><div class="admonitionContent_BuS1"><p>This step is required to prevent boot issues or permanent device bricking. Skipping it may leave your device stuck in EDL mode with no easy recovery. Do not skip it.</p></div></div>
 <ol>
 <li class="">Download the copy-partitions zip from <a href="https://mirrorbits.lineageos.org/tools/copy-partitions-20220613-signed.zip" target="_blank" rel="noopener noreferrer" class="">here</a>.</li>
@@ -58,16 +58,32 @@
 <li class="">When presented with a screen that says <strong>Signature verification failed</strong>, press <strong>Yes</strong>.</li>
 </ol>
 <h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="installing-the-rom">Installing the ROM<a href="#installing-the-rom" class="hash-link" aria-label="Direct link to Installing the ROM" title="Direct link to Installing the ROM" translate="no">​</a></h3>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="method-1-ota-package-flashing">Method 1: OTA package flashing<a href="#method-1-ota-package-flashing" class="hash-link" aria-label="Direct link to Method 1: OTA package flashing" title="Direct link to Method 1: OTA package flashing" translate="no">​</a></h3>
 <ol>
-<li class="">Download the latest Halcyon build.</li>
+<li class="">Download the latest OTA Halcyon build.</li>
 <li class="">Reboot into the recovery mode.</li>
-<li class="">Perform a <strong>Factory Reset</strong>.</li>
+<li class="">Perform a <strong>Factory Reset</strong> (if you are coming from a different ROM).</li>
 <li class="">Return to the main menu.</li>
 <li class="">Select <strong>Apply update &gt; Apply from ADB</strong>.</li>
 <li class="">Sideload the ROM:</li>
 </ol>
-<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">adb sideload ota-halcyon_fogos-xxxxx.zip</span><br></span></code></pre></div></div>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">adb sideload ota-halcyon_devon-xxxxx.zip</span><br></span></code></pre></div></div>
+<ol start="7">
+<li class="">Reboot.</li>
+</ol>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="method-2-fastboot-package-flashing-simpler">Method 2: Fastboot package flashing (simpler)<a href="#method-2-fastboot-package-flashing-simpler" class="hash-link" aria-label="Direct link to Method 2: Fastboot package flashing (simpler)" title="Direct link to Method 2: Fastboot package flashing (simpler)" translate="no">​</a></h3>
+<ol>
+<li class="">Download the latest Fastboot Halcyon build.</li>
+<li class="">Reboot into the bootloader mode.</li>
+<li class="">Perform a <strong>Factory Reset</strong> (if you are coming from a different ROM):</li>
+</ol>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">fastboot -w</span><br></span></code></pre></div></div>
+<ol start="4">
+<li class="">Start the installation process:</li>
+</ol>
+<div class="language-text codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#F8F8F2;--prism-background-color:#282A36"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#F8F8F2;background-color:#282A36"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#F8F8F2"><span class="token plain">fastboot update fastboot-halcyon_devon-xxxxx.zip</span><br></span></code></pre></div></div>
+<p>Your device will automatically reboot once the installation has completed.</p>
 <h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="troubleshooting">Troubleshooting<a href="#troubleshooting" class="hash-link" aria-label="Direct link to Troubleshooting" title="Direct link to Troubleshooting" translate="no">​</a></h2>
-<p>If you encounter any issues during or after installation, feel free to ask in our chat group for help and solutions to common problems.</p></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#device-information" class="table-of-contents__link toc-highlight">Device Information</a></li><li><a href="#installation-guide" class="table-of-contents__link toc-highlight">Installation Guide</a><ul><li><a href="#installing-the-recovery" class="table-of-contents__link toc-highlight">Installing the recovery</a></li><li><a href="#flashing-preparation" class="table-of-contents__link toc-highlight">Flashing Preparation</a></li><li><a href="#installing-the-rom" class="table-of-contents__link toc-highlight">Installing the ROM</a></li></ul></li><li><a href="#troubleshooting" class="table-of-contents__link toc-highlight">Troubleshooting</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">© 2026 Halcyon Project. <br> Android is a trademark of Google LLC.</div></div></div></footer></div>
+<p>If you encounter any issues during or after installation, feel free to ask in our chat group for help and solutions to common problems.</p></div></article><nav class="docusaurus-mt-lg pagination-nav" aria-label="Docs pages"></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#device-information" class="table-of-contents__link toc-highlight">Device Information</a></li><li><a href="#installation-guide" class="table-of-contents__link toc-highlight">Installation Guide</a><ul><li><a href="#installing-the-recovery" class="table-of-contents__link toc-highlight">Installing the recovery</a></li><li><a href="#flashing-preparations" class="table-of-contents__link toc-highlight">Flashing Preparations</a></li><li><a href="#installing-the-rom" class="table-of-contents__link toc-highlight">Installing the ROM</a></li><li><a href="#method-1-ota-package-flashing" class="table-of-contents__link toc-highlight">Method 1: OTA package flashing</a></li><li><a href="#method-2-fastboot-package-flashing-simpler" class="table-of-contents__link toc-highlight">Method 2: Fastboot package flashing (simpler)</a></li></ul></li><li><a href="#troubleshooting" class="table-of-contents__link toc-highlight">Troubleshooting</a></li></ul></div></div></div></div></main></div></div></div><footer class="theme-layout-footer footer"><div class="container container-fluid"><div class="footer__bottom text--center"><div class="footer__copyright">© 2026 Halcyon Project. <br> Android is a trademark of Google LLC.</div></div></div></footer></div>
 </body>
 </html>
