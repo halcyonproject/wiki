@@ -2,7 +2,7 @@
 slug: /devices/devon
 pagination_next: null
 pagination_prev: null
-title: "Motorola g32 (devon)*"
+title: "Motorola g32 (devon)"
 ---
 # Motorola g32 (devon)
 :::info
