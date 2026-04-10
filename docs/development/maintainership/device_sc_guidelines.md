@@ -30,9 +30,9 @@ Kernel sources for Halcyon:
 
 - **MUST** have a complete commit history and proper authorship.  
 - **MUST NOT** include any type of blocker (e.g., Boeffla Wakelock Blocker, FS blocker).  
-- **MUST NOT** include any type of modification (e.g., KernelSU, Apatch).  
+- **MUST NOT** include any type of modification (e.g., KernelSU, APatch).  
 - **MUST NOT** include any form of overclocking (e.g., CPU/GPU overclocking, screen overclocking).  
-- **MUST** be able to be built with AOSP Clang.
+- **MUST** be buildable with AOSP Clang.
 - **SHOULD** maintain **consistency with device trees**, including `defconfig`.
 - **MUST** be able to boot **without modifications to init or recovery**.
 - **MUST** not break **DTBO or recovery boot**.
