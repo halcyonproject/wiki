@@ -24,7 +24,7 @@ title: "Motorola g32 (devon)*"
 - **Maintainer:** pixelthrived  
 :::
 
-<a href="https://get.hlcyn.co/builds/devon/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/devon/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution
@@ -41,7 +41,7 @@ Make sure to flash the required firmware to avoid bricks.
 6. Flash the dtbo image onto your device using `fastboot flash dtbo dtbo.img`.
 7. Reboot into the newly installed recovery mode by typing `fastboot reboot recovery` in the command line, or by navigating through the bootloader and choosing `Reboot to recovery`.
 
-### Flashing Preparation
+### Flashing Preparations
 :::caution
 This step is required to prevent boot issues or permanent device bricking. Skipping it may leave your device stuck in EDL mode with no easy recovery. Do not skip it.
 :::
@@ -55,15 +55,20 @@ adb sideload copy-partitions-20220613-signed.zip
 5. When presented with a screen that says **Signature verification failed**, press **Yes**.
 
 ### Installing the ROM
-1. Download the latest Halcyon build.
+### Method 1: OTA package flashing
+1. Download the latest OTA Halcyon build.
 2. Reboot into the recovery mode.
-3. Perform a **Factory Reset**.
+3. Perform a **Factory Reset** (if you are coming from a different ROM).
 4. Return to the main menu.
 5. Select **Apply update > Apply from ADB**.
 6. Sideload the ROM:
 ```
-adb sideload ota-halcyon_fogos-xxxxx.zip
+adb sideload ota-halcyon_devon-xxxxx.zip
 ```
+7. Reboot.
+
+### Method 2: Fastboot package flashing
+Refer to [this document](/fastboot-package) for more information on what Fastboot packages are, including how to flash them.
 
 ## Troubleshooting
 If you encounter any issues during or after installation, feel free to ask in our chat group for help and solutions to common problems.
