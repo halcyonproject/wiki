@@ -5,7 +5,7 @@ pagination_prev: null
 title: "Phone (2a) (Pacman)"
 ---
 
-# Nothing Phone (2a) (Pacman) - Discontinued
+# Nothing Phone (2a) (Pacman)
 
 :::info
 

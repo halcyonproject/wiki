@@ -15,7 +15,7 @@ sidebar_class_name: hidden
 
 ### Nothing
 
-- [Phone 1 (Spacewar)](/devices/Spacewar)
+- [Phone (2a) (Pacman)](/devices/Pacman)
 
 ### Samsung
 
