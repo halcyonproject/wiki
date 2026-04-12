@@ -17,6 +17,9 @@ sidebar_class_name: hidden
 
 - [Phone (2a) (Pacman)](/devices/Pacman)
 
+### Realme
+- [6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)](/devices/RM6785)
+
 ### Samsung
 
 - [Galaxy M34 5G / Galaxy F34 (m34x)](/devices/m34x)
