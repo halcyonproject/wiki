@@ -1,28 +1,27 @@
 ---
-slug: /devices/r8s
+slug: /devices/r8q
 pagination_next: null
 pagination_prev: null
-title: "Samsung Galaxy S20 FE (Exynos) (r8s)"
+title: "Samsung Galaxy S20 FE 5G (Qualcomm) (r8q)"
 ---
 
-# Samsung Galaxy S20 FE (Exynos) (r8s)
+# Samsung Galaxy S20 FE 5G (Qualcomm) (r8q)
 
 :::danger ⚠️ ATTENTION: Check Your Processor!
-This build is **ONLY** for the **Exynos 990** variant (**r8s** / G780F). 
-Flashing this on a Snapdragon device will cause a hard brick.
+This build is **ONLY** for the **Snapdragon 865** variant (**r8q** / G780G / G781B). 
+Flashing this on an Exynos device will cause a hard brick.
 
-If your device has a **Snapdragon 865** processor (G780G / G781B), you need the **r8q** build.
-👉 **[Click here to go to the r8q (Snapdragon) page](/devices/r8q)**
+If your device has an **Exynos 990** processor (G780F), you need the **r8s** build.
+👉 **[Click here to go to the r8s (Exynos) page](/devices/r8s)**
 :::
-
 
 :::info
 
 ## Device Information
 
-- **Device:** Samsung Galaxy S20 FE (Exynos) (r8s)
-- **Release Date:** 2020, October 02
-- **Chipset:** Exynos 990
+- **Device:** Samsung Galaxy S20 FE (Qualcomm) (r8q)
+- **Release Date:** 2020, September 23
+- **Chipset:** Snapdragon 865
 - **RAM:** 6GB / 8GB
 - **Storage:** 128GB
 - **Battery:** 4500 mAh
@@ -30,10 +29,10 @@ If your device has a **Snapdragon 865** processor (G780G / G781B), you need the 
 - **Rear Camera:** 12MP (wide), 12MP (ultrawide), 8MP (telephoto)
 - **Front Camera:** 32 MP (wide)
 - **Halcyon Version:** Bloom
-- **Maintainer:** [CmdCtrlDevic3](https://github.com/CmdCtrlDevic3)
+- **Maintainer:** [Yurumee](https://github.com/Yumeerin)
   :::
 
-<a href="https://get.hlcyn.org/builds/r8s/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/r8q/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 
@@ -64,7 +63,7 @@ heimdall flash --RECOVERY recovery.img
 6. Now you can start sideloading by this command:
 
 ```
-adb sideload ota-halcyon_r8s-xxxxx.zip
+adb sideload ota-halcyon_r8q-xxxxx.zip
 ```
 
 ## Troubleshooting
