@@ -19,6 +19,7 @@ sidebar_class_name: hidden
 - [Phone (2a) Plus (PacmanPro)](/devices/PacmanPro)
 
 ### Realme
+
 - [6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)](/devices/RM6785)
 
 ### Samsung
@@ -42,6 +43,7 @@ sidebar_class_name: hidden
 - [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
 - [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
+- [POCO X8 Pro / Redmi Turbo 5 (klee)](/devices/klee)
 - [Redmi Note 14 4G (tanzanite)](/devices/tanzanite)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
