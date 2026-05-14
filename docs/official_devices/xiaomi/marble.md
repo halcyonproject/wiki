@@ -2,10 +2,10 @@
 slug: /devices/marble
 pagination_next: null
 pagination_prev: null
-title: "POCO F5 / Redmi Note 12 Turbo (marble)"
+title: "POCO F5 / Redmi Note 12 Turbo (marble)*"
 ---
 
-# POCO F5 / Redmi Note 12 Turbo (marble)
+# POCO F5 / Redmi Note 12 Turbo (marble) - Discontinued
 :::info
 ## Device Information
 

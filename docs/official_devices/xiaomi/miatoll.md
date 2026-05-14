@@ -22,7 +22,7 @@ title: "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / 
 - **Maintainer:**
 :::
 
-<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
+<a href="https://get.hlcyn.org/builds/muatoll/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution

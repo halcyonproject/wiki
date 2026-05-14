@@ -2,10 +2,10 @@
 slug: /devices/begonia
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 8 Pro (begonia)"
+title: "Redmi Note 8 Pro (begonia)*"
 ---
 
-# Redmi Note 8 Pro (begonia)
+# Redmi Note 8 Pro (begonia) - Discontinued
 :::info
 ## Device Information
 

@@ -2,10 +2,10 @@
 slug: /devices/rock
 pagination_next: null
 pagination_prev: null
-title: "Redmi 11 Prime / POCO M5 (rock/stone)"
+title: "Redmi 11 Prime / POCO M5 (rock/stone)*"
 ---
 
-# Redmi 11 Prime / POCO M5 (rock/stone)
+# Redmi 11 Prime / POCO M5 (rock/stone) - Discontinued
 
 :::info
 

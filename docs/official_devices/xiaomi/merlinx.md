@@ -2,10 +2,10 @@
 slug: /devices/merlinx
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 9 (merlinx)"
+title: "Redmi Note 9 (merlinx)*"
 ---
 
-# Redmi Note 9 (merlinx)
+# Redmi Note 9 (merlinx) - Discontinued
 :::info
 ## Device Information
 
@@ -21,9 +21,6 @@ title: "Redmi Note 9 (merlinx)"
 - **Halcyon Version:** Ursinia, Viola
 - **Maintainer:** HeroBuxx, and rktdnt
 :::
-
-<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
-<a href="https://www.pling.com/p/1685941/" class="button button--primary">Get builds - Beta</a>
 
 ## Installation Guide
 :::caution

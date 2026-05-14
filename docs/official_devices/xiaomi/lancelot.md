@@ -2,10 +2,10 @@
 slug: /devices/lancelot
 pagination_next: null
 pagination_prev: null
-title: "Redmi 9 (lancelot)"
+title: "Redmi 9 (lancelot)*"
 ---
 
-# Redmi 9 (lancelot)
+# Redmi 9 (lancelot) - Discontinued
 :::info
 ## Device Information
 

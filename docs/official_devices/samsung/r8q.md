@@ -12,7 +12,7 @@ This build is **ONLY** for the **Snapdragon 865** variant (**r8q** / G780G / G78
 Flashing this on an Exynos device will cause a hard brick.
 
 If your device has an **Exynos 990** processor (G780F), you need the **r8s** build.
-👉 **[Click here to go to the r8s (Exynos) page](/devices/r8s)**
+**[Click here to go to the r8s (Exynos) page](/devices/r8s)**
 :::
 
 :::info

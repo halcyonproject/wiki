@@ -2,9 +2,9 @@
 slug: /devices/gale
 pagination_next: null
 pagination_prev: null
-title: "Redmi 13C / POCO C65 (gale/gust)"
+title: "Redmi 13C / POCO C65 (gale/gust)*"
 ---
-# Redmi 13C / POCO C65 (gale/gust)
+# Redmi 13C / POCO C65 (gale/gust) - Discontinued
 :::info
 ## Device Information
 - **Device:** Redmi 13C / POCO C65

@@ -2,10 +2,10 @@
 slug: /devices/rubyx
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 12 Pro 5G / Note 12 Pro+ 5G/Discovery (rubyx)"
+title: "Redmi Note 12 Pro 5G / Note 12 Pro+ 5G/Discovery (rubyx)*"
 ---
 
-# Redmi Note 12 Pro 5G / Note 12 Pro+ 5G/Discovery (rubyx)
+# Redmi Note 12 Pro 5G / Note 12 Pro+ 5G/Discovery (rubyx) - Discontinued
 
 :::info
 

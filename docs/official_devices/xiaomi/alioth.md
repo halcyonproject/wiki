@@ -2,10 +2,10 @@
 slug: /devices/alioth
 pagination_next: null
 pagination_prev: null
-title: "POCO F3 / Mi 11x / Redmi K40 (alioth)"
+title: "POCO F3 / Mi 11x / Redmi K40 (alioth)*"
 ---
 
-# POCO F3 / Mi 11x / Redmi K40 (alioth)
+# POCO F3 / Mi 11x / Redmi K40 (alioth) - Discontinued
 :::info
 ## Device Information
 
@@ -28,10 +28,6 @@ title: "POCO F3 / Mi 11x / Redmi K40 (alioth)"
 :::caution
 Make sure to backup your data before proceeding.
 :::
-
-### Fastboot package installation
-
-If you want to install using the Fastboot package, the complete installation guide is available [here](/fastboot-package). Otherwise, you can follow the instructions below to flash via recovery using ADB sideload.
 
 ### Installing Recovery
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.

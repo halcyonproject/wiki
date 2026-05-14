@@ -19,11 +19,10 @@ title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)"
 - **Rear Camera:** Triple 200/64 MP (main) + 8 MP (ultrawide) + 2 MP (telephoto macro)
 - **Front Camera:** 16 MP (wide)
 - **Halcyon Version:** Viola, Bloom
-- **Maintainer:** mysellysenpai
+- **Maintainer:** HeroBuxx
 :::
 
-<a href="https://www.pling.com/p/2058150/" class="button button--primary">Get builds</a>
-<a href="https://www.pling.com/p/1685941/" class="button button--primary">Get builds - Beta</a>
+<a href="https://get.hlcyn.org/builds/garnet/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution
