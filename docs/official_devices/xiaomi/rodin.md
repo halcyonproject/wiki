@@ -27,33 +27,40 @@ title: "POCO X7 Pro / Redmi Turbo 4 (rodin)"
 <a href="https://get.hlcyn.org/builds/rodin/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
-
 :::caution
 Before proceeding, please remove all lockscreen security (PIN, password, pattern, and fingerprint) and ensure you have backed up your data. Keeping any lockscreen credentials active while switching ROMs can cause the fingerprint sensor to stop working, and in many cases this issue cannot be easily recovered. We are not responsible for any malfunction resulting from not following these steps.
 :::
 
-### Fastboot package installation
+### Method 1: Web Flasher (Recommended)
+The easiest way to install Halcyon is via our browser-based Web Flasher. 
 
-If you want to install using the Fastboot package, the complete installation guide is available [here](/fastboot-package). Otherwise, you can follow the instructions below to flash via recovery using ADB sideload.
+1. Reboot your device into **Fastboot mode** (Power + Volume Down).
+2. Connect your device to your PC via USB.
+3. Open the [Halcyon Web Flasher](https://flash.hlcyn.org) in a Chromium-based browser (Chrome, Edge, or Brave).
+4. Select **POCO X7 Pro / Redmi Turbo 4 (rodin)** from the device list.
+5. Click **Connect Device** and follow the on-screen instructions to complete the installation.
 
-### Installing Recovery
+### Method 2: Fastboot Package (Manual)
+If you prefer to flash using a manual script from your computer, you can use the Fastboot package. Refer to [this document](/fastboot-package) for more information on how to flash using Fastboot packages.
 
+### Method 3: Recovery Installation (ADB Sideload)
+This method involves flashing a custom recovery first, then sideloading the ROM package.
+
+#### Step 1: Installing Recovery
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.
 3. Verify that your PC detects the device with `fastboot devices`.
 4. Flash the recovery image onto your device using `fastboot flash vendor_boot vendor_boot.img`.
 5. Reboot into recovery mode by typing `fastboot reboot` in command line and then hold `Power + Vol Up` to boot to recovery.
 
-### Installing ROM
-
+#### Step 2: Installing ROM
 1. Download the latest release of Halcyon.
 2. Reboot into recovery mode.
-3. Perform a Format data.
+3. Perform a **Format data**.
 4. Return to the main menu.
-5. Select Apply update > Apply from ADB.
-6. Now you can start sideloading by this command:
-
-```
+5. Select **Apply update > Apply from ADB**.
+6. Sideload the ROM using the following command:
+```bash
 adb sideload ota-halcyon_rodin-xxxxx.zip
 ```
 
