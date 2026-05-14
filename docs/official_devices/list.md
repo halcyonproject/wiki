@@ -6,6 +6,9 @@ title: "Supported Devices"
 sidebar_class_name: hidden
 ---
 
+### Infinix
+- [Infinix HOT 40 Pro (X6837)](/devices/X6837)
+
 ### Motorola
 
 - [g84 5G (bangkk)](/devices/bangkk)
@@ -45,8 +48,5 @@ sidebar_class_name: hidden
 - [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
 - [POCO X8 Pro / Redmi Turbo 5 (klee)](/devices/klee)
 - [Redmi Note 14 4G (tanzanite)](/devices/tanzanite)
-
-### Transsion
-- [Infinix HOT 40 Pro (X6837)](/devices/X6837)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
