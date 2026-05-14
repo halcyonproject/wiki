@@ -20,6 +20,7 @@ The devices listed below have been dropped and will no longer receive updates un
 - [Galaxy S9 (starlte)](/devices/starlte)
 
 ### Xiaomi
+- [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)
 - [POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite (miatoll)](/devices/miatoll)
 - [POCO M3 Pro/Redmi Note 10T/10 5G/11 SE (camellia)](/devices/camellia)
 - [POCO X5 5G / Redmi Note 12 5G (stone)](/devices/stone)

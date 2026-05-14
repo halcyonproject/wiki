@@ -35,7 +35,6 @@ sidebar_class_name: hidden
 
 ### Xiaomi
 
-- [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)
 - [Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)](/devices/beryl)
 - [POCO F1 (beryllium)](/devices/beryllium)
 - [POCO M3 (citrus)](/devices/citrus)
