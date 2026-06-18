@@ -49,4 +49,7 @@ sidebar_class_name: hidden
 ### Transsion
 - [Infinix HOT 40 Pro (X6837)](/devices/X6837)
 
+### ADVAN
+- [ADVAN X1 (X1/6781)](/device/X1)
+
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
