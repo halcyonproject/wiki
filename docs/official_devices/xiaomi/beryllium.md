@@ -32,18 +32,18 @@ Make sure to backup your data before proceeding.
 ### Installing Recovery
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.
-4. Verify that your PC detects the device with `fastboot devices`.
-5. Flash the recovery onto your device using `fastboot flash recovery recovery.img`.
-6. Reboot into recovery mode by holding `Power + Vol Up`.
+3. Verify that your PC detects the device with `fastboot devices`.
+4. Flash the recovery onto your device using `fastboot flash recovery recovery.img`.
+5. Reboot into recovery mode by holding `Power + Vol Up`.
 
 ### Installing ROM
 1. Download the latest release of Halcyon.
 2. Reboot into recovery mode.
-3. Perform a Format data.
+3. Perform a **Format data**.
 4. Return to the main menu.
-5. Select Apply update > Apply from ADB.
-6. Now you can start sideloading by this command:
-```
+5. Select **Apply update > Apply from ADB**.
+6. Sideload the ROM using the following command:
+```bash
 adb sideload ota-halcyon_beryllium-xxxxx.zip
 ```
 

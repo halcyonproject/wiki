@@ -51,7 +51,7 @@ This method involves flashing a custom recovery first, then sideloading the ROM 
 4. Flash the recovery onto your device using `fastboot flash recovery recovery.img`.
 5. Reboot into recovery mode by holding `Power + Vol Up`.
 
-#### Step 2: Installing ROM
+### Installing ROM
 1. Download the latest release of Halcyon.
 2. Reboot into recovery mode.
 3. Perform a **Format data**.

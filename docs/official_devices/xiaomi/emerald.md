@@ -42,16 +42,14 @@ Make sure you have fully charged battery, and backup your data before proceeding
 5. Reboot into recovery mode by typing `fastboot reboot` in command line then hold `Power + Vol Up`.
 
 ### Installing ROM
-
 1. Download the latest release of Halcyon.
 2. Reboot into recovery mode.
-3. Perform a Format data.
+3. Perform a **Format data**.
 4. Return to the main menu.
-5. Select Apply update > Apply from ADB.
-6. Now you can start sideloading by this command:
-
-```
-adb sideload halcyon_emerald-xxxxx.zip
+5. Select **Apply update > Apply from ADB**.
+6. Sideload the ROM using the following command:
+```bash
+adb sideload ota-halcyon_emerald-xxxxx.zip
 ```
 
 ## Troubleshooting

@@ -61,7 +61,7 @@ This method involves flashing a custom recovery first, then sideloading the ROM 
 5. Select **Apply update > Apply from ADB**.
 6. Sideload the ROM using the following command:
 ```bash
-adb sideload halcyon_rosemary-xxxxx.zip
+adb sideload ota-halcyon_rosemary-xxxxx.zip
 ```
 
 ## Troubleshooting

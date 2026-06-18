@@ -42,11 +42,11 @@ If you want to install using the Fastboot package, the complete installation gui
 ### Installing ROM
 1. Download the latest release of Halcyon.
 2. Reboot into recovery mode.
-3. Perform a Format data.
+3. Perform a **Format data**.
 4. Return to the main menu.
-5. Select Apply update > Apply from ADB.
-6. Now you can start sideloading by this command:
-```
+5. Select **Apply update > Apply from ADB**.
+6. Sideload the ROM using the following command:
+```bash
 adb sideload ota-halcyon_garnet-xxxxx.zip
 ```
 

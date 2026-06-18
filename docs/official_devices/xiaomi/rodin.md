@@ -50,8 +50,8 @@ This method involves flashing a custom recovery first, then sideloading the ROM 
 1. Enter fastboot mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.
 3. Verify that your PC detects the device with `fastboot devices`.
-4. Flash the recovery image onto your device using `fastboot flash vendor_boot vendor_boot.img`.
-5. Reboot into recovery mode by typing `fastboot reboot` in command line and then hold `Power + Vol Up` to boot to recovery.
+4. Flash the boot image onto your device using `fastboot flash vendor_boot --slot=all vendor_boot.img`.
+5. Reboot into recovery mode by typing `fastboot reboot` in command line then hold `Power + Vol Up`.
 
 #### Step 2: Installing ROM
 1. Download the latest release of Halcyon.

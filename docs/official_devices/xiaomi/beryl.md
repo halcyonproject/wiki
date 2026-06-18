@@ -30,33 +30,21 @@ title: "Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)"
 Make sure to backup your data, you running HyperOS 2 Global (2.0.210.0 VOQMIXM recommended), and download correct files for Fastboot or OTA steps before proceeding.
 :::
 
-### Fastboot package installation
-
-If you prefer to install using the Fastboot package, the complete installation guide is available [here](/fastboot-package). Otherwise, you can follow the instructions below to flash via recovery using ADB sideload. 
-
----
-
-:::caution
-For the following steps, you must **download the OTA Package and Vendor Boot files**, not the Fastboot Package.
-:::
-
 ### Installing Recovery
-
-1. Enter Fastboot Mode by using a key combination `Power + Vol Down`.
+1. Enter fastboot mode by using a key combination `Power + Vol Down`.
 2. Connect your device to your PC via USB.
 3. Verify that your PC detects the device with `fastboot devices`.
-4. Flash the recovery image onto your device using `fastboot flash vendor_boot vendor_boot.img`.
-5. Reboot into Recovery Mode by typing `fastboot reboot` in command line, then immediately hold `Power + Vol Up` to boot to recovery.
+4. Flash the boot image onto your device using `fastboot flash vendor_boot --slot=all vendor_boot.img`.
+5. Reboot into recovery mode by typing `fastboot reboot` in command line then hold `Power + Vol Up`.
 
 ### Installing ROM
-
 1. Download the latest release of Halcyon.
 2. Reboot into recovery mode.
-3. Perform a Format Data (this will wipe all user data).
+3. Perform a **Format data**.
 4. Return to the main menu.
-5. Select Apply update > Apply from ADB.
-6. Start the sideload process using the following command:
-```
+5. Select **Apply update > Apply from ADB**.
+6. Sideload the ROM using the following command:
+```bash
 adb sideload ota-halcyon_beryl-xxxxx.zip
 ```
 
