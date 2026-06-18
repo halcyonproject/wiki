@@ -51,5 +51,6 @@ sidebar_class_name: hidden
 - [POCO X8 Pro / Redmi Turbo 5 (klee)](/devices/klee)
 - [Redmi Note 14 4G (tanzanite)](/devices/tanzanite)
 - [Redmi Note 8/8T (ginkgo/willow)](/devices/ginkgo)
+- [Redmi Note 13 Pro 4G / Poco M6 Pro 4G (emerald)](/devices/emerald)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
