@@ -6,6 +6,9 @@ title: "Supported Devices"
 sidebar_class_name: hidden
 ---
 
+### Advan
+- [X1 (X1/6781)](/devices/X1)
+
 ### Infinix
 - [Infinix HOT 40 Pro (X6837)](/devices/X6837)
 
