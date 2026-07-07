@@ -21,7 +21,7 @@ title: "POCO X8 Pro / Redmi Turbo 5 (klee)"
 - **Rear Camera:** 50 MP (wide), 8MP (ultrawide)
 - **Front Camera:** 20 MP (wide)
 - **Halcyon Version:** Bloom
-- **Maintainer:** [Ido](https://github.com/xyzuniverse)
+- **Maintainer:** [khayloaf](https://github.com/kylieeXD)
   :::
 
 <a href="https://get.hlcyn.org/builds/klee/" class="button button--primary">Get builds</a>
