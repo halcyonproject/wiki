@@ -9,11 +9,13 @@ sidebar_class_name: hidden
 ### Advan
 - [X1 (X1/6781)](/devices/X1)
 
+### Google
+- [Pixel 8 Pro (husky)](/devices/husky)
+
 ### Infinix
 - [Infinix HOT 40 Pro (X6837)](/devices/X6837)
 
 ### Motorola
-
 - [g84 5G (bangkk)](/devices/bangkk)
 - [g32 (devon)](/devices/devon)
 - [g34 / g45 5G (fogos)](/devices/fogos)
