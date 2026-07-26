@@ -51,7 +51,7 @@ This method involves flashing a custom recovery first, then sideloading the ROM 
 2. Connect your device to your PC via USB.
 3. Verify that your PC detects the device with `fastboot devices`.
 4. Flash the vendor boot image onto your device using `fastboot flash vendor_boot --slot=all vendor_boot.img`.
-5  Flash the boot image onto your device using `fastboot flash boot --slot=all boot.img`.
+5. Flash the boot image onto your device using `fastboot flash boot --slot=all boot.img`.
 6. Reboot into recovery mode by typing `fastboot reboot` in command line then hold `Power + Vol Up`.
 
 #### Step 2: Installing ROM
