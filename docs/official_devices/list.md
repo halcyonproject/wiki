@@ -9,6 +9,9 @@ sidebar_class_name: hidden
 ### Advan
 - [X1 (X1/6781)](/devices/X1)
 
+### Asus
+- [Zenfone Max Pro M1 (X00TD)](/devices/X00TD)
+
 ### Google
 - [Pixel 8 Pro (husky)](/devices/husky)
 
