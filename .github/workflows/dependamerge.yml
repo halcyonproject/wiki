@@ -1,7 +1,12 @@
 name: Merge from dependabot
 
 on:
+  workflow_dispatch: 
   pull_request:
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   auto-merge:
@@ -11,4 +16,4 @@ jobs:
       - uses: ahmadnassri/action-dependabot-auto-merge@v2
         with:
           target: minor
-          github-token: ${{ secrets.GH_PAT }}
+          github-token: ${{ secrets.GH_DEPENDABOT }}
