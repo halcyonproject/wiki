@@ -1,14 +1,52 @@
-name: Merge from dependabot
+name: Dependabot auto-merge
 
 on:
   pull_request:
+    types: [opened, synchronize, reopened]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
-  auto-merge:
+  auto-merge-single:
+    if: github.event_name == 'pull_request' && github.actor == 'dependabot[bot]'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: ahmadnassri/action-dependabot-auto-merge@v2
+      - name: Dependabot metadata
+        id: metadata
+        uses: dependabot/fetch-metadata@v2
         with:
-          target: minor
-          github-token: ${{ secrets.GH_PAT }}
+          github-token: "${{ secrets.GH_PAT }}"
+
+      - name: Merge PR
+        run: gh pr merge --merge "${{ github.event.pull_request.html_url }}"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
+  merge-all-manual:
+    if: github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Merge every open Dependabot PR
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          PRS=$(gh pr list --repo "${{ github.repository }}" \
+            --author "app/dependabot" \
+            --state open \
+            --json number \
+            --jq '.[].number')
+
+          if [ -z "$PRS" ]; then
+            echo "No open Dependabot PRs found."
+            exit 0
+          fi
+
+          for pr in $PRS; do
+            echo "::group::PR #$pr"
+            gh pr merge "$pr" --repo "${{ github.repository }}" --merge || \
+              echo "Could not merge #$pr"
+            echo "::endgroup::"
+          done
