@@ -46,7 +46,7 @@ sidebar_class_name: hidden
 - [Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)](/devices/beryl)
 - [POCO F1 (beryllium)](/devices/beryllium)
 - [POCO M3 (citrus)](/devices/citrus)
-- [Redmi Note 13 Pro 4G / Poco M6 Pro 4G (emerald)](/devices/emerald)
+- [Redmi Note 13 Pro 4G / POCO M6 Pro 4G (emerald)](/devices/emerald)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
 - [POCO X8 Pro / Redmi Turbo 5 (klee)](/devices/klee)
 - [Redmi 9T / 9T NFC / 8 Power/Note 9 4G (lime)](/devices/lime)

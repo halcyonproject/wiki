@@ -2,16 +2,16 @@
 slug: /devices/emerald
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 13 Pro 4G / Poco M6 Pro 4G (emerald)"
+title: "Redmi Note 13 Pro 4G / POCO M6 Pro 4G (emerald)"
 ---
 
-# Redmi Note 13 Pro 4G / Poco M6 Pro 4G (emerald)
+# Redmi Note 13 Pro 4G / POCO M6 Pro 4G (emerald)
 
 :::info
 
 ## Device Information
 
-- **Device:** Redmi Note 13 Pro 4G / Poco M6 Pro 4G 
+- **Device:** Redmi Note 13 Pro 4G / POCO M6 Pro 4G 
 - **Release Date:** 2024, January 15
 - **Chipset:** MediaTek Helio G99 Ultra (MT6789)
 - **RAM:** 6 GB / 8 GB / 12GB
@@ -30,7 +30,7 @@ title: "Redmi Note 13 Pro 4G / Poco M6 Pro 4G (emerald)"
 ## Installation Guide
 
 :::caution
-Make sure you have fully charged battery, and backup your data before proceeding.
+Make sure backup ur data first before flashing, You must running on HyperOS2 (2.0.208.0 VNFMIXM Recommended) DO NOT FLASH ON HYPEROS3 ELSE YOU WILL BRICK UR DEVICES, And make sure u charged fully ur battery before flashing.
 :::
 
 ### Installing Recovery
