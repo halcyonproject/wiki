@@ -57,5 +57,6 @@ sidebar_class_name: hidden
 - [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
 - [Redmi Note 14 4G (tanzanite)](/devices/tanzanite)
 - [Redmi Note 8/8T (ginkgo/willow)](/devices/ginkgo)
+- [Redmi 13C/POCO C65 (gale)](/devices/gale)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
