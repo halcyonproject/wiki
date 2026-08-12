@@ -1,7 +1,7 @@
 name: Dependabot auto-merge
 
 on:
-  pull_request:
+  pull_request_target:
     types: [opened, synchronize, reopened]
   workflow_dispatch:
 
@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   auto-merge-single:
-    if: github.event_name == 'pull_request' && github.actor == 'dependabot[bot]'
+    if: github.event_name == 'pull_request_target' && github.actor == 'dependabot[bot]'
     runs-on: ubuntu-latest
     steps:
       - name: Dependabot metadata
