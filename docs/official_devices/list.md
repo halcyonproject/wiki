@@ -25,38 +25,29 @@ sidebar_class_name: hidden
 - [g82 5G (rhodep)](/devices/rhodep)
 
 ### Nothing
-
 - [Phone (2a) (Pacman)](/devices/Pacman)
 - [Phone (2a) Plus (PacmanPro)](/devices/PacmanPro)
 
 ### Realme
-
 - [6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)](/devices/RM6785)
 
 ### Samsung
-
-- [Galaxy M34 5G / Galaxy F34 (m34x)](/devices/m34x)
 - [Galaxy A52 4G (a52q)](/devices/a52q)
 - [Galaxy A72 (a72q)](/devices/a72q)
+- [Galaxy M34 5G / Galaxy F34 (m34x)](/devices/m34x)
 - [Galaxy S20 FE 5G (r8q)](/devices/r8q)
 - [Galaxy S20 FE 4G (r8s)](/devices/r8s)
 
 ### Xiaomi
-
 - [Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)](/devices/beryl)
-- [POCO F1 (beryllium)](/devices/beryllium)
 - [POCO M3 (citrus)](/devices/citrus)
 - [Redmi Note 13 Pro 4G / POCO M6 Pro 4G (emerald)](/devices/emerald)
-- [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)
+- [Redmi 13C/POCO C65 (gale)](/devices/gale)
 - [POCO X8 Pro / Redmi Turbo 5 (klee)](/devices/klee)
 - [Redmi 9T / 9T NFC / 8 Power/Note 9 4G (lime)](/devices/lime)
-- [Poco F5 / Redmi Note 12 Turbo (marble)](devices/marble)
-- [POCO F6 / Redmi Turbo 3 (peridot)](/devices/peridot)
+- [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
 - [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
-- [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
 - [Redmi Note 14 4G (tanzanite)](/devices/tanzanite)
-- [Redmi Note 8/8T (ginkgo/willow)](/devices/ginkgo)
-- [Redmi 13C/POCO C65 (gale)](/devices/gale)
 
 Refer to [this document](/devices/deprecated) for a list of previously supported devices.
