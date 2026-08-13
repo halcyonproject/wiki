@@ -27,7 +27,8 @@ title: "Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)"
 
 ## Installation Guide
 :::caution
-Make sure to backup your data, you running HyperOS 2 Global (2.0.210.0 VOQMIXM recommended), and download correct files for Fastboot or OTA steps before proceeding.
+- Make sure to backup your data before proceeding.
+- Firmware version 2.0.210.0 VOQMIXM is required.
 :::
 
 ### Installing Recovery

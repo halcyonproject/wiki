@@ -26,7 +26,8 @@ title: "Redmi 9T/9T NFC/9 Power/Note 9 4G (lime)"
 
 ## Installation Guide
 :::caution
-Make sure to backup your data before proceeding.
+- Make sure to backup your data before proceeding.
+- Firmware version 14.0.5.0.SJQMIXM is required.
 :::
 
 ### Method 1: Web Flasher (Recommended)

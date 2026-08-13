@@ -26,7 +26,8 @@ title: "POCO M3 (citrus)"
 
 ## Installation Guide
 :::caution
-Make sure to backup your data before proceeding.
+- Make sure to backup your data before proceeding.
+- Firmware version 14.0.2.0.SJFMIXM is required.
 :::
 
 ### Method 1: Web Flasher (Recommended)

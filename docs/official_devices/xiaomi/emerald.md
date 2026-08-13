@@ -30,7 +30,8 @@ title: "Redmi Note 13 Pro 4G / POCO M6 Pro 4G (emerald)"
 ## Installation Guide
 
 :::caution
-Make sure backup ur data first before flashing, You must running on HyperOS2 (2.0.208.0 VNFMIXM Recommended) DO NOT FLASH ON HYPEROS3 ELSE YOU WILL BRICK UR DEVICES, And make sure u charged fully ur battery before flashing.
+- Make sure to backup your data before proceeding.
+- Firmware version 2.0.208.0 VNFMIXM is required.
 :::
 
 ### Installing Recovery

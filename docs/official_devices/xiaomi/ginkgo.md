@@ -31,7 +31,7 @@ These builds are only for Redmi Note 8 and 8T, released in 2019. It will **NOT**
 :::
 
 :::caution
-Make sure your device's battery has atleast ≥70% charged before proceeding. Back up your data and remove any accounts, lockscreen security, as that has a possibility cause issues on setup.
+- Make sure to backup your data before proceeding.
 :::
 
 ### Installing Recovery

@@ -26,7 +26,7 @@ title: "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / 
 
 ## Installation Guide
 :::caution
-Make sure to backup your data before proceeding.
+- Make sure to backup your data before proceeding.
 :::
 
 ### Installing Recovery

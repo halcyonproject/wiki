@@ -30,7 +30,7 @@ title: "Redmi Note 14 4G (tanzanite)"
 ## Installation Guide
 
 :::caution
-Make sure you have fully charged battery, and backup your data before proceeding.
+- Make sure to backup your data before proceeding.
 :::
 
 ### Installing Recovery

@@ -26,7 +26,7 @@ title: "POCO X3 / POCO X3 NFC (surya)"
 
 ## Installation Guide
 :::caution
-Make sure to backup your data before proceeding.
+- Make sure to backup your data before proceeding.
 :::
 
 ### Method 1: Web Flasher (Recommended)

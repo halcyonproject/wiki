@@ -26,7 +26,7 @@ title: "POCO F1 (beryllium)"
 
 ## Installation Guide
 :::caution
-Make sure to backup your data before proceeding.
+- Make sure to backup your data before proceeding.
 :::
 
 ### Installing Recovery

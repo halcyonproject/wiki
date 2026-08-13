@@ -26,7 +26,7 @@ title: "POCO F6 / Redmi Turbo 3 (peridot)"
 
 ## Installation Guide
 :::caution
-Make sure to backup your data before proceeding.
+- Make sure to backup your data before proceeding.
 :::
 
 ### Fastboot package installation

@@ -19,14 +19,14 @@ title: "Redmi Note 13 Pro 5G / POCO X6 5G (garnet)"
 - **Rear Camera:** Triple 200/64 MP (main) + 8 MP (ultrawide) + 2 MP (telephoto macro)
 - **Front Camera:** 16 MP (wide)
 - **Halcyon Version:** Viola, Bloom
-- **Maintainer:** HeroBuxx
+- **Maintainer:**
 :::
 
 <a href="https://get.hlcyn.org/builds/garnet/" class="button button--primary">Get builds</a>
 
 ## Installation Guide
 :::caution
-Make sure to backup your data before proceeding.
+- Make sure to backup your data before proceeding.
 :::
 
 ### Fastboot package installation
