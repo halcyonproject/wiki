@@ -40,5 +40,5 @@ This wiki is powered by [Docusaurus](https://docusaurus.io/), and contributions 
 
 Halcyon is built and maintained by a small, passionate team — most of us are high school and university students, pouring our free time into delivering a clean, quality Android experience with no corporate backing. If you enjoy using Halcyon and want to help keep our build servers running, consider supporting us!
 
-[❤️ Support Halcyon →](/donate)
+[Support Halcyon →](/donate)
 
