@@ -2,14 +2,14 @@
 slug: /devices/beryl
 pagination_next: null
 pagination_prev: null
-title: "Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)"
+title: "Redmi Note 14 5G / 14 SE / 15R Pro / POCO M7 Pro 5G (beryl)"
 ---
 
-# Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)
+# Redmi Note 14 5G / 14 SE / 15R Pro / POCO M7 Pro 5G (beryl)
 :::info
 ## Device Information
 
-- **Device:** Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G
+- **Device:** Redmi Note 14 5G / 14 SE / 15R Pro / POCO M7 Pro 5G
 - **Other codenames**: citrine
 - **Release Date:** 2024, September 26
 - **Chipset:** Mediatek Dimensity 7025 Ultra
@@ -17,7 +17,7 @@ title: "Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)"
 - **Storage:** 128GB / 256GB / 512GB
 - **Battery:** 5110 mAh
 - **Display:** 6.67 inches, AMOLED, HDR10+, 120Hz, 1080x2400 pixels
-- **Rear Camera:** 108 MP (Wide Global) / 64 MP (Wide India, CN, & POCO) + 8 MP (UltraWide (non-POCO & non-CN)) + 2 MP (Macro Non-CN / SE)
+- **Rear Camera:** 108 MP (Wide Global) / 64 MP (Wide India, CN, & POCO) + 8 MP (UltraWide (non-POCO & non-CN)) + 2 MP (Macro Non-CN / SE / 15R Pro)
 - **Front Camera:** 20 MP (Wide non-CN) / 16MP (wide CN)
 - **Halcyon Version:** Bloom
 - **Maintainer:** naokoshoto
@@ -28,7 +28,8 @@ title: "Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)"
 ## Installation Guide
 :::caution
 - Make sure to backup your data before proceeding.
-- Firmware version 2.0.210.0 VOQMIXM is required.
+- ***BREAKING CHANGES!!!*** Builds from August 2026 and onwards will be moving to **6.12 kernel base / OS 3.0.3xx**.
+- **Firmware version 3.0.302.0 WOQMIXM** is required for builds from August 2026 and onwards.
 :::
 
 ### Installing Recovery
