@@ -19,6 +19,8 @@ The devices listed below have been dropped and will no longer receive updates un
 
 ### Samsung
 - [Galaxy Note 9 (crownlte)](/devices/crownlte)
+- [Galaxy M34 5G / Galaxy F34 (m34x)](/devices/m34x)
+- [Galaxy S20 FE 5G (r8q)](/devices/r8q)
 - [Galaxy S9+ (star2lte)](/devices/star2lte)
 - [Galaxy S9 (starlte)](/devices/starlte)
 

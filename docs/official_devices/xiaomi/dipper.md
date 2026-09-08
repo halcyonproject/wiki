@@ -2,7 +2,7 @@
 slug: /devices/dipper
 pagination_next: null
 pagination_prev: null
-title: "Xiaomi Mi 8 (dipper)"
+title: "Mi 8 (dipper)"
 ---
 
 # Xiaomi Mi 8 (dipper)
