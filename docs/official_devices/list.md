@@ -22,8 +22,8 @@ sidebar_class_name: hidden
 - [g84 5G (bangkk)](/devices/bangkk)
 - [g32 (devon)](/devices/devon)
 - [g34 / g45 5G (fogos)](/devices/fogos)
-- [g82 5G (rhodep)](/devices/rhodep)
 - [e7 plus (guam)](/devices/guam)
+- [g82 5G (rhodep)](/devices/rhodep)
 
 ### Nothing
 - [Phone (2a) (Pacman)](/devices/Pacman)
@@ -47,6 +47,7 @@ sidebar_class_name: hidden
 - [Redmi 13C/POCO C65 (gale)](/devices/gale)
 - [POCO X8 Pro / Redmi Turbo 5 (klee)](/devices/klee)
 - [Redmi 9T / 9T NFC / 8 Power/Note 9 4G (lime)](/devices/lime)
+- [Mi 8 Lite(platina)](/devices/platina)
 - [POCO X7 Pro / Redmi Turbo 4 (rodin)](/devices/rodin)
 - [Redmi Note 10S / 11SE India / POCO M5s (rosemary)](/devices/rosemary)
 - [POCO X3 / POCO X3 NFC (surya)](/devices/surya)
