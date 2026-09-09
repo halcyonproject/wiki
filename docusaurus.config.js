@@ -10,7 +10,12 @@ module.exports = {
   organizationName: "halcyonproject",
   projectName: "wiki",
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
+  },
 
   i18n: {
     defaultLocale: "en",
@@ -18,7 +23,7 @@ module.exports = {
   },
 
   future: {
-    experimental_faster: {
+    faster: {
       ssgWorkerThreads: true,
     },
     v4: {
@@ -48,7 +53,9 @@ module.exports = {
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
         hashed: true,
+        indexBlog: false,
         indexPages: true,
+        docsRouteBasePath: "/",
         highlightSearchTermsOnTargetPage: true,
       }),
     ],
