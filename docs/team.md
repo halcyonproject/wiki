@@ -9,46 +9,35 @@ title: "Our Team"
 
 Our mission is to deliver a stable, secure, and optimized Android platform across a wide range of hardware. The project is driven by a focused team responsible for core development, code review, and long-term maintenance, ensuring high standards of quality, performance, and usability.
 
-## Project Leader
-- **Alif Fathur**
+## Project Co-Leads
+- **Alif Fathur** — Founder & Lead Developer
+- **Raya Mahardika** — Lead Core Developer
 
-Alif Fathur is the founder, Project Leader, and Lead Developer. This role is responsible for defining the project’s technical direction and long-term vision, overseeing core source development, and making high-level architectural decisions. The Project Leader also reviews and approves changes submitted by the community and maintainers, ensuring alignment with project standards and objectives.
+The project is jointly led by Alif Fathur and Raya Mahardika:
+- **Alif Fathur** is the founder and co-lead, responsible for defining the project’s high-level vision, overall governance, UI/UX design, and feature integration on top of the base source.
+- **Raya Mahardika** is the co-lead and lead core platform architect, driving major base source bringup and upstream development (including major releases such as 16.2 and 17.0), system architecture, and core platform stability.
 
-## Co-lead Developer
-- **Raya Mahardika**
+Together, the co-leads oversee code reviews, establish technical standards, and guide the project's long-term roadmap.
 
-The Co-lead Developer works alongside the Project Leader in core source development and system architecture. Raya Mahardika actively reviews community and maintainer submissions, helps maintain code quality and consistency, and supports day-to-day technical decision-making. This role also ensures project continuity by backing up the Project Leader when they are unavailable.
-
-## UI/UX Developer
+## UI/UX & Graphic Design
+- **Naoko Shoto**
+- **Bintang**
 - **Kshitij**
-- **Alif Fathur**
+- **Waze** *(Icon Design / On Hiatus)*
 
-UI/UX Developers are responsible for designing and refining the user experience with a focus on clarity, usability, and visual consistency. They collaborate closely with platform and application developers to ensure design decisions are implemented effectively without impacting system performance.
+The Design Team is responsible for shaping the visual identity and user experience across the project. This includes designing UI components, system themes, iconography, application interfaces, and promotional visual assets.
 
-## Platform Developer
-- **Alif Fathur**
-- **Raya Mahardika**
-- **Ido**
+## Web & Tooling Developer
+- **Neroices** — Homepage & Wiki
+- **EreN** — Download Portal
+- **Ibra Al Tabian** — Web Flasher
 
-Platform Developers focus on the Android platform layer, including system optimization, feature integration, and hardware compatibility. Their responsibilities include core system development, performance improvements, bug fixes, and maintaining overall platform stability.
-
-## Platform Security Maintainer
-- **Ido**
-
-The Platform Security Maintainer is responsible for tracking and integrating security patches from AOSP. This role involves assessing potential vulnerabilities, applying security updates, and ensuring that security best practices are consistently followed throughout the platform.
-
-## Graphic Designer
-- **Waze**
-
-The Graphic Designer develops visual assets such as icons, illustrations, and promotional materials. They work in coordination with UI/UX developers to maintain a consistent visual identity and ensure design assets align with the project’s usability goals.
-
-## Web Developer
-- **Neroices**
-- **Ibra Al Tabian**
-
-Web Developers maintain and improve the project’s official website and documentation platforms, including the wiki. Their responsibilities include ensuring accessibility, reliability, and accurate presentation of project information.
+Web developers build and maintain the project's web platforms and utilities:
+- **Neroices** developed and maintains the official project homepage and documentation wiki.
+- **EreN** developed and maintains the official download website.
+- **Ibra Al Tabian** contributed to the development of the web-based device flasher tool.
 
 ## DevOps and Infrastructure
 - **EreN**
 
-The DevOps and Infrastructure role manages backend services and server infrastructure supporting the project. This includes maintaining system reliability, supporting development workflows, and ensuring stable services for contributors and maintainers.
+The DevOps and Infrastructure role manages server infrastructure, build/mirror systems, and S3 storage buckets supporting file distribution and development workflows for the project.
