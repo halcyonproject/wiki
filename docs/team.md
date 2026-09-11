@@ -5,13 +5,16 @@ pagination_next: null
 pagination_prev: null
 title: "Our Team"
 ---
+
+import DeviceMaintainers from '@site/src/components/DeviceMaintainers';
+
 # Our Team
 
 Our mission is to deliver a stable, secure, and optimized Android platform across a wide range of hardware. The project is driven by a focused team responsible for core development, code review, and long-term maintenance, ensuring high standards of quality, performance, and usability.
 
 ## Project Co-Leads
-- **Alif Fathur** — Founder & Lead Developer
-- **Raya Mahardika** — Lead Core Developer
+- **Alif Fathur (HeroBuxx)** — Founder & Lead Developer
+- **Raya Mahardika (rypl)** — Lead Core Developer
 
 The project is jointly led by Alif Fathur and Raya Mahardika:
 - **Alif Fathur** is the founder and co-lead, responsible for defining the project’s high-level vision, overall governance, UI/UX design, and feature integration on top of the base source.
@@ -21,7 +24,7 @@ Together, the co-leads oversee code reviews, establish technical standards, and 
 
 ## UI/UX & Graphic Design
 - **Naoko Shoto**
-- **Bintang**
+- **Bintang P.S.**
 - **Kshitij**
 - **Waze** *(Icon Design / On Hiatus)*
 
@@ -41,3 +44,9 @@ Web developers build and maintain the project's web platforms and utilities:
 - **EreN**
 
 The DevOps and Infrastructure role manages server infrastructure, build/mirror systems, and S3 storage buckets supporting file distribution and development workflows for the project.
+
+## Device Maintainers
+
+Our lineup of official devices is actively maintained and supported by our dedicated community maintainers.
+
+<DeviceMaintainers />
