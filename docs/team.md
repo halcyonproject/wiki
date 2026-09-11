@@ -24,7 +24,7 @@ Together, the co-leads oversee code reviews, establish technical standards, and 
 
 ## UI/UX & Graphic Design
 - **Naoko Shoto**
-- **Bintang P.S.**
+- **Bintang P.S.(binzet)**
 - **Kshitij**
 - **Waze** *(Icon Design / On Hiatus)*
 
