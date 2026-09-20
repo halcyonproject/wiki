@@ -2,9 +2,9 @@
 slug: /devices/guam
 pagination_next: null
 pagination_prev: null
-title: "Motorola Moto E7 Plus (guam)"
+title: "Motorola E7 Plus (guam)"
 ---
-# Motorola Moto E7 Plus (guam)
+# Motorola E7 Plus (guam)
 :::info
 ## Device Information
 
@@ -30,7 +30,19 @@ Make sure to back up your data before proceeding.
 Make sure to flash the required firmware to avoid bricks. 
 :::
 
-### Method 1: Recovery Installation (ADB Sideload)
+### Method 1: Web Flasher (Recommended)
+The easiest way to install Halcyon is via our browser-based Web Flasher. 
+
+1. Reboot your device into **Fastboot mode** (Power + Volume Down).
+2. Connect your device to your PC via USB.
+3. Open the [Halcyon Web Flasher](https://flash.hlcyn.org) in a Chromium-based browser (Chrome, Edge, or Brave).
+4. Select **Motorola E7 Plus (guam)** from the device list.
+5. Click **Connect Device** and follow the on-screen instructions to complete the installation.
+
+### Method 2: Fastboot Package (Manual)
+If you prefer to flash using a manual script from your computer, you can use the Fastboot package. Refer to [this document](/fastboot-package) for more information on how to flash using Fastboot packages.
+
+### Method 3: Recovery Installation (ADB Sideload)
 This method involves flashing a custom recovery first, then sideloading the ROM package.
 
 #### Step 1: Installing Recovery
