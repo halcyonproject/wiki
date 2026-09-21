@@ -41,7 +41,7 @@ cd halcyon
 Initialize the Repo tool in the newly created directory:
 
 ```
-repo init -u https://github.com/halcyonproject/manifest -b 16.0 --git-lfs
+repo init -u https://github.com/halcyonproject/manifest -b 16.2 --git-lfs
 ```
 
 :::info
