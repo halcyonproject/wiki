@@ -13,6 +13,9 @@ sidebar_class_name: hidden
 - [Zenfone Max Pro M1 (X00TD)](/devices/X00TD)
 
 ### Google
+- [Pixel 7 (panther)](/devices/panther)
+- [Pixel 7 Pro (cheetah)](/devices/cheetah)
+- [Pixel 7a (lynx)](/devices/lynx)
 - [Pixel 8 Pro (husky)](/devices/husky)
 
 ### Infinix
