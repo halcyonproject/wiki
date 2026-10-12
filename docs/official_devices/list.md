@@ -42,6 +42,7 @@ sidebar_class_name: hidden
 
 ### Xiaomi
 - [Redmi Note 14 5G / 14 SE / POCO M7 Pro 5G (beryl)](/devices/beryl)
+- [POCO F1 (beryllium)](/devices/beryllium)
 - [POCO M3 (citrus)](/devices/citrus)
 - [Mi 8 (dipper)](/devices/dipper)
 - [Redmi Note 13 Pro 4G / POCO M6 Pro 4G (emerald)](/devices/emerald)

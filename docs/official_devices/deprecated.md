@@ -26,7 +26,6 @@ The devices listed below have been dropped and will no longer receive updates un
 
 ### Xiaomi
 - [POCO F3 / Mi 11x / Redmi K40 (alioth)](/devices/alioth)
-- [POCO F1 (beryllium)](/devices/beryllium)
 - [POCO M3 Pro/Redmi Note 10T/10 5G/11 SE (camellia)](/devices/camellia)
 - [Redmi Note 11S / POCO M4 Pro (fleur)](/devices/fleur)
 - [Redmi Note 13 Pro 5G / POCO X6 5G (garnet)](/devices/garnet)

@@ -11,7 +11,7 @@ title: "POCO F1 (beryllium)"
 
 - **Device:** POCO F1
 - **Release Date:** August 22, 2018
-- **Chipset:** Qualcomm Snapdragon 845 Octa-core
+- **Chipset:** Qualcomm Snapdragon 845
 - **RAM:** 6 GB / 8 GB
 - **Storage:** 64 GB, 128 GB, 256 GB
 - **Battery:** 4000 mAh
@@ -19,7 +19,7 @@ title: "POCO F1 (beryllium)"
 - **Rear Camera:** Dual 12 MP (main, ƒ/1.9) + 5 MP (depth)
 - **Front Camera:** 8 MP
 - **Halcyon Version:** Bloom
-- **Maintainer:** ibratabian17
+- **Maintainer:** neroices
 :::
 
 <a href="https://get.hlcyn.org/builds/beryllium/" class="button button--primary">Get builds</a>
