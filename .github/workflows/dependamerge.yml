@@ -5,6 +5,11 @@ on:
     types: [opened, synchronize, reopened]
   workflow_dispatch:
 
+concurrency:
+  group: dependabot-automerge
+  cancel-in-progress: false
+  queue: max
+
 permissions:
   contents: write
   pull-requests: write
@@ -18,12 +23,84 @@ jobs:
         id: metadata
         uses: dependabot/fetch-metadata@v2
         with:
-          github-token: "${{ secrets.GH_PAT }}"
+          github-token: "${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}"
 
       - name: Merge PR
-        run: gh pr merge --merge "${{ github.event.pull_request.html_url }}"
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          merge_pr() {
+            local pr="$1"
+            local repo="$2"
+            local max_attempts=5
+            local delay=5
+
+            echo "==> Processing PR #$pr in $repo"
+
+            # 1. Check if PR is already merged or closed
+            local pr_state
+            pr_state=$(gh pr view "$pr" --repo "$repo" --json state --jq '.state' 2>/dev/null || true)
+            if [ "$pr_state" = "MERGED" ]; then
+              echo "PR #$pr is already merged."
+              return 0
+            elif [ "$pr_state" = "CLOSED" ]; then
+              echo "PR #$pr is closed. Skipping."
+              return 0
+            fi
+
+            # Optionally approve the PR if reviews are required
+            gh pr review "$pr" --repo "$repo" --approve 2>/dev/null || true
+
+            # 2. Try native auto-merge first (safely queues merge on GitHub backend)
+            echo "Attempting auto-merge for PR #$pr..."
+            if gh pr merge "$pr" --repo "$repo" --auto --merge 2>/dev/null; then
+              echo "✓ Enabled auto-merge for PR #$pr."
+              return 0
+            fi
+
+            echo "Auto-merge not applicable or not allowed. Falling back to direct merge with retry loop..."
+
+            # 3. Direct merge with retry loop for transient base branch changes / recalculations
+            for attempt in $(seq 1 "$max_attempts"); do
+              echo "--- Direct merge attempt $attempt of $max_attempts for PR #$pr ---"
+
+              # Re-check if merged in the meantime
+              pr_state=$(gh pr view "$pr" --repo "$repo" --json state --jq '.state' 2>/dev/null || true)
+              if [ "$pr_state" = "MERGED" ]; then
+                echo "✓ PR #$pr was merged successfully."
+                return 0
+              fi
+
+              # Attempt direct merge
+              local merge_output
+              if merge_output=$(gh pr merge "$pr" --repo "$repo" --merge 2>&1); then
+                echo "✓ Successfully merged PR #$pr"
+                echo "$merge_output"
+                return 0
+              fi
+
+              echo "Attempt $attempt failed: $merge_output"
+
+              # If base branch was modified or PR is behind/calculating, update the branch
+              if echo "$merge_output" | grep -qiE "Base branch was modified|not mergeable|behind"; then
+                echo "Base branch was modified or PR is out of date. Updating PR branch..."
+                gh pr update-branch "$pr" --repo "$repo" 2>&1 || true
+              fi
+
+              if [ "$attempt" -lt "$max_attempts" ]; then
+                echo "Waiting ${delay}s before retrying..."
+                sleep "$delay"
+                delay=$((delay + 5))
+              fi
+            done
+
+            echo "✗ Failed to merge PR #$pr after $max_attempts attempts."
+            return 1
+          }
+
+          merge_pr "$PR_NUMBER" "$REPO"
 
   merge-all-manual:
     if: github.event_name == 'workflow_dispatch'
@@ -31,13 +108,91 @@ jobs:
     steps:
       - name: Merge every open Dependabot PR
         env:
-          GH_TOKEN: ${{ secrets.GH_PAT }}
+          GH_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
         run: |
-          PRS=$(gh pr list --repo "${{ github.repository }}" \
-            --author "app/dependabot" \
+          merge_pr() {
+            local pr="$1"
+            local repo="$2"
+            local max_attempts=5
+            local delay=5
+
+            echo "==> Processing PR #$pr in $repo"
+
+            # 1. Check if PR is already merged or closed
+            local pr_state
+            pr_state=$(gh pr view "$pr" --repo "$repo" --json state --jq '.state' 2>/dev/null || true)
+            if [ "$pr_state" = "MERGED" ]; then
+              echo "PR #$pr is already merged."
+              return 0
+            elif [ "$pr_state" = "CLOSED" ]; then
+              echo "PR #$pr is closed. Skipping."
+              return 0
+            fi
+
+            # Optionally approve the PR if reviews are required
+            gh pr review "$pr" --repo "$repo" --approve 2>/dev/null || true
+
+            # 2. Try native auto-merge first (safely queues merge on GitHub backend)
+            echo "Attempting auto-merge for PR #$pr..."
+            if gh pr merge "$pr" --repo "$repo" --auto --merge 2>/dev/null; then
+              echo "✓ Enabled auto-merge for PR #$pr."
+              return 0
+            fi
+
+            echo "Auto-merge not applicable or not allowed. Falling back to direct merge with retry loop..."
+
+            # 3. Direct merge with retry loop for transient base branch changes / recalculations
+            for attempt in $(seq 1 "$max_attempts"); do
+              echo "--- Direct merge attempt $attempt of $max_attempts for PR #$pr ---"
+
+              # Re-check if merged in the meantime
+              pr_state=$(gh pr view "$pr" --repo "$repo" --json state --jq '.state' 2>/dev/null || true)
+              if [ "$pr_state" = "MERGED" ]; then
+                echo "✓ PR #$pr was merged successfully."
+                return 0
+              fi
+
+              # Attempt direct merge
+              local merge_output
+              if merge_output=$(gh pr merge "$pr" --repo "$repo" --merge 2>&1); then
+                echo "✓ Successfully merged PR #$pr"
+                echo "$merge_output"
+                return 0
+              fi
+
+              echo "Attempt $attempt failed: $merge_output"
+
+              # If base branch was modified or PR is behind/calculating, update the branch
+              if echo "$merge_output" | grep -qiE "Base branch was modified|not mergeable|behind"; then
+                echo "Base branch was modified or PR is out of date. Updating PR branch..."
+                gh pr update-branch "$pr" --repo "$repo" 2>&1 || true
+              fi
+
+              if [ "$attempt" -lt "$max_attempts" ]; then
+                echo "Waiting ${delay}s before retrying..."
+                sleep "$delay"
+                delay=$((delay + 5))
+              fi
+            done
+
+            echo "✗ Failed to merge PR #$pr after $max_attempts attempts."
+            return 1
+          }
+
+          PRS=$(gh pr list --repo "$REPO" \
+            --app dependabot \
             --state open \
             --json number \
             --jq '.[].number')
+
+          if [ -z "$PRS" ]; then
+            PRS=$(gh pr list --repo "$REPO" \
+              --author "app/dependabot" \
+              --state open \
+              --json number \
+              --jq '.[].number')
+          fi
 
           if [ -z "$PRS" ]; then
             echo "No open Dependabot PRs found."
@@ -46,7 +201,7 @@ jobs:
 
           for pr in $PRS; do
             echo "::group::PR #$pr"
-            gh pr merge "$pr" --repo "${{ github.repository }}" --merge || \
-              echo "Could not merge #$pr"
+            merge_pr "$pr" "$REPO" || echo "Could not merge #$pr"
             echo "::endgroup::"
+            sleep 3
           done
