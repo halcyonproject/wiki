@@ -76,18 +76,9 @@ module.exports = {
         },
         items: [
           {
-            href: "https://github.com/halcyonproject",
-            position: "right",
-            className: "header-github-link",
-          },
-          {
-            href: "https://x.com/hlcynprjct",
-            position: "right",
-            className: "header-x-link",
-          },
-          {
-            type: "search",
-            position: "right",
+            label: "Blog",
+            href: "https://blog.hlcyn.org",
+            position: "left",
           },
           {
             label: "Apply",
@@ -112,6 +103,20 @@ module.exports = {
             label: "Code of Conduct",
             position: "left",
             to: "/development/maintainership/coc",
+          },
+          {
+            href: "https://github.com/halcyonproject",
+            position: "right",
+            className: "header-github-link",
+          },
+          {
+            href: "https://x.com/hlcynprjct",
+            position: "right",
+            className: "header-x-link",
+          },
+          {
+            type: "search",
+            position: "right",
           },
         ],
       },
