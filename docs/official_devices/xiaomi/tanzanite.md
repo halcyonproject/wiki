@@ -31,6 +31,7 @@ title: "Redmi Note 14 4G (tanzanite)"
 
 :::caution
 - Make sure to backup your data before proceeding.
+- Make sure you are on HyperOS **OS2.0.214.0.VOGEUXM** before flashing, if you are on HyperOS 3 and up, it's mandatory to downgrade.
 :::
 
 ### Installing Recovery
