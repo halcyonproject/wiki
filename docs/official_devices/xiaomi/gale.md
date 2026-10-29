@@ -19,7 +19,7 @@ title: "Redmi 13C/POCO C65 (gale)"
 - **Display:** 109.7 cm² (6.74 Inches), 450 nits (typ), 600 nits (HBM), 720 x 1600 pixels, 20:9 ratio (~260 ppi density)
 - **Rear Camera:** 50MP (main), 2MP (macro)
 - **Front Camera:** 8 MP
-- **Halcyon Version:** Bloom
+- **Halcyon Version:** Bloom, Calla
 - **Maintainer:** wulan17
 :::
 
