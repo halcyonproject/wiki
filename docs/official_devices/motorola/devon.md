@@ -20,7 +20,7 @@ title: "Motorola g32 (devon)"
   - 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0", 1.12µm  
   - 2 MP, f/2.4 (macro)  
 - **Front Camera:** 16 MP, f/2.4 (wide), 1.0µm  
-- **Halcyon Version:** Bloom  
+- **Halcyon Version:** Bloom, Calla  
 - **Maintainer:** pixelthrived  
 :::
 

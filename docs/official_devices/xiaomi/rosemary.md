@@ -19,7 +19,7 @@ title: "Redmi Note 10S / 11SE India / POCO M5s (rosemary)"
 - **Display:** 16.33cm (6.43 Inches), 1100 nits peak brightness, 1080 x 2400 pixels, 19.5:9 ratio (~440 ppi density)
 - **Rear Camera:** 64MP(main) + 8MP(Ultra-Wide) + 2MP(Macro) + 2MP(Depth)
 - **Front Camera:** 13 MP
-- **Halcyon Version:** Bloom
+- **Halcyon Version:** Bloom, Calla
 - **Maintainer:** probaero
 :::
 

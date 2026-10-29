@@ -18,7 +18,7 @@ title: "POCO X3 Pro (vayu)"
 - **Display:** 6.67 inches, IPS LCD, HDR10, 120Hz, 1080x2400 pixels
 - **Rear Camera:** Quad 48 MP (wide) + 8 MP (ultrawide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 20 MP (wide)
-- **Halcyon Version:** Ursinia, Viola, Bloom
+- **Halcyon Version:** Calla
 - **Maintainer:** Alif Fathur
 :::
 
