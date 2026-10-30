@@ -7,11 +7,11 @@ title: "FAQ"
 ---
 # Frequently Asked Questions
 
-## Is source code buildable?
+## Is the source code buildable?
 The source code will always remain buildable unless a source code maintenance announcement is made.
 
 ## Does Halcyon provide OTA updates?
-Currently, we do not provide OTA updates.
+Starting with Calla 17.0, OTA updates are supported, allowing users to seamlessly install updates directly on their devices.
 
 ## Are Google Apps included?
 Starting with Bloom 16.0, we include a minimal set of Google apps in GMS builds. However, Vanilla builds are still available.
