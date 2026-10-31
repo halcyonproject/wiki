@@ -20,7 +20,7 @@ title: "Redmi Note 14 4G (tanzanite)"
 - **Display:** 6.67 inches, AMOLED, 120Hz, 1080x2400 pixels
 - **Rear Camera:** Triple 108 MP (wide) + 2 MP (macro) + 2 MP (depth)
 - **Front Camera:** 20 MP (wide)
-- **Halcyon Version:** Bloom
+- **Halcyon Version:** Bloom, Calla
 - **Maintainer:** Nathan
   :::
 
