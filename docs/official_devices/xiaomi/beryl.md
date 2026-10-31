@@ -19,7 +19,7 @@ title: "Redmi Note 14 5G / 14 SE / 15R Pro / POCO M7 Pro 5G (beryl)"
 - **Display:** 6.67 inches, AMOLED, HDR10+, 120Hz, 1080x2400 pixels
 - **Rear Camera:** 108 MP (Wide Global) / 64 MP (Wide India, CN, & POCO) + 8 MP (UltraWide (non-POCO & non-CN)) + 2 MP (Macro Non-CN / SE / 15R Pro)
 - **Front Camera:** 20 MP (Wide non-CN) / 16MP (wide CN)
-- **Halcyon Version:** Bloom
+- **Halcyon Version:** Bloom, Calla
 - **Maintainer:** naokoshoto
 :::
 
