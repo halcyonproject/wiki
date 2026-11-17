@@ -26,6 +26,7 @@ sidebar_class_name: hidden
 - [g32 (devon)](/devices/devon)
 - [g34 / g45 5G (fogos)](/devices/fogos)
 - [e7 plus (guam)](/devices/guam)
+- [g52 (rhode)](/devices/rhode)
 - [g82 5G (rhodep)](/devices/rhodep)
 
 ### Nothing
